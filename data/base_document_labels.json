@@ -1,0 +1,194 @@
+{
+  "updated_at": "2026-03-30T08:04:13.856296+00:00",
+  "documents": [
+    {
+      "file_name": "2022 Generation IV International Forum GIF Annual Report 2022.pdf",
+      "path": "/home/user/bot_extract/base/2022 Generation IV International Forum GIF Annual Report 2022.pdf",
+      "label": "gen4",
+      "include": true,
+      "note": "Годовой отчет GIF по реакторам IV поколения и дорожным картам систем."
+    },
+    {
+      "file_name": "DOE Releases Positive EIA.docx",
+      "path": "/home/user/bot_extract/base/DOE Releases Positive EIA.docx",
+      "label": "gen4",
+      "include": true,
+      "note": "TerraPower Natrium и Generation IV контекст."
+    },
+    {
+      "file_name": "Digital Twins for Nuclear Power Plants and Facilities.pdf",
+      "path": "/home/user/bot_extract/base/Digital Twins for Nuclear Power Plants and Facilities.pdf",
+      "label": "gen4",
+      "include": true,
+      "note": "Материал про digital twin для ядерных установок добавлен в тематический корпус advanced reactors."
+    },
+    {
+      "file_name": "Elsevier A digital twin framework.pdf",
+      "path": "/home/user/bot_extract/base/Elsevier A digital twin framework.pdf",
+      "label": "gen4",
+      "include": true,
+      "note": "Цифровой двойник для Gen-IV FHR с явной привязкой к IV поколению."
+    },
+    {
+      "file_name": "Elsevier Corrosion phenomena.pdf",
+      "path": "/home/user/bot_extract/base/Elsevier Corrosion phenomena.pdf",
+      "label": "gen4",
+      "include": true,
+      "note": "Коррозионные явления в супер-критической воде для реакторов Generation IV."
+    },
+    {
+      "file_name": "Elsevier Enhancing multi-physics modeling.pdf",
+      "path": "/home/user/bot_extract/base/Elsevier Enhancing multi-physics modeling.pdf",
+      "label": "gen4",
+      "include": true,
+      "note": "Мультифизическое моделирование MSR и машинное обучение для next-generation reactors."
+    },
+    {
+      "file_name": "Elsevier Gen 4 pool reactors.pdf",
+      "path": "/home/user/bot_extract/base/Elsevier Gen 4 pool reactors.pdf",
+      "label": "gen4",
+      "include": true,
+      "note": "Gen-IV pool reactors и валидируемая динамика теплоносителя на примере ALFRED."
+    },
+    {
+      "file_name": "Elsevier Generation 4 International Forum.pdf",
+      "path": "/home/user/bot_extract/base/Elsevier Generation 4 International Forum.pdf",
+      "label": "gen4",
+      "include": true,
+      "note": "Обзор десятилетнего прогресса Generation IV International Forum."
+    },
+    {
+      "file_name": "Elsevier Roun-robin analysis.pdf",
+      "path": "/home/user/bot_extract/base/Elsevier Roun-robin analysis.pdf",
+      "label": "gen4",
+      "include": true,
+      "note": "Литиевые материалы для приложений Generation IV, связаны с MSR-тематикой."
+    },
+    {
+      "file_name": "Elsevier Safety assessment of MSR.pdf",
+      "path": "/home/user/bot_extract/base/Elsevier Safety assessment of MSR.pdf",
+      "label": "gen4",
+      "include": true,
+      "note": "Оценка безопасности molten salt reactor по методологии INPRO."
+    },
+    {
+      "file_name": "Elsevier Stability and bifurcation analysis.pdf",
+      "path": "/home/user/bot_extract/base/Elsevier Stability and bifurcation analysis.pdf",
+      "label": "gen4",
+      "include": true,
+      "note": "Устойчивость и бифуркации моделей реакторов IV поколения."
+    },
+    {
+      "file_name": "GIF 2023 Annual Report Compressed.pdf",
+      "path": "/home/user/bot_extract/base/GIF 2023 Annual Report Compressed.pdf",
+      "label": "gen4",
+      "include": true,
+      "note": "Годовой отчет GIF 2023 по реакторным системам IV поколения."
+    },
+    {
+      "file_name": "GIF Annual Report 2021.pdf",
+      "path": "/home/user/bot_extract/base/GIF Annual Report 2021.pdf",
+      "label": "gen4",
+      "include": true,
+      "note": "Годовой отчет GIF 2021 с обзором семейств реакторов IV поколения."
+    },
+    {
+      "file_name": "GIF Annual Report 2022 (1).pdf",
+      "path": "/home/user/bot_extract/base/GIF Annual Report 2022 (1).pdf",
+      "label": "gen4",
+      "include": false,
+      "note": "Дубликат годового отчета GIF 2022, исключен из обучения."
+    },
+    {
+      "file_name": "GIF_2024_Annual_Report.pdf",
+      "path": "/home/user/bot_extract/base/GIF_2024_Annual_Report.pdf",
+      "label": "gen4",
+      "include": true,
+      "note": "Годовой отчет GIF 2024 по актуальному состоянию проектов Generation IV."
+    },
+    {
+      "file_name": "High-Fidelity CFD Simulation of Mixed-Convection.pdf",
+      "path": "/home/user/bot_extract/base/High-Fidelity CFD Simulation of Mixed-Convection.pdf",
+      "label": "gen4",
+      "include": true,
+      "note": "Kairos Power, pebble bed test reactor, advanced reactor R&D."
+    },
+    {
+      "file_name": "IAEA FR17.pdf",
+      "path": "/home/user/bot_extract/base/IAEA FR17.pdf",
+      "label": "gen4",
+      "include": true,
+      "note": "Материалы FR17 по fast reactors и related fuel cycles как части Gen IV-повестки."
+    },
+    {
+      "file_name": "IAEA Next Gen Nuclear Reactors.docx",
+      "path": "/home/user/bot_extract/base/IAEA Next Gen Nuclear Reactors.docx",
+      "label": "gen4",
+      "include": true,
+      "note": "Публикация IAEA и GIF о ускоренном внедрении next generation reactors."
+    },
+    {
+      "file_name": "IAEA coolants for FR.pdf",
+      "path": "/home/user/bot_extract/base/IAEA coolants for FR.pdf",
+      "label": "gen4",
+      "include": true,
+      "note": "Базовые жидкометаллические теплоносители для fast reactors."
+    },
+    {
+      "file_name": "IAEA ИНПРО.pdf",
+      "path": "/home/user/bot_extract/base/IAEA ИНПРО.pdf",
+      "label": "gen4",
+      "include": true,
+      "note": "Методология ИНПРО используется в работах по advanced reactors и включена в эталонный корпус."
+    },
+    {
+      "file_name": "IAEA_'KP-FHR Fuel Performance Methodology'.docx",
+      "path": "/home/user/bot_extract/base/IAEA_'KP-FHR Fuel Performance Methodology'.docx",
+      "label": "gen4",
+      "include": true,
+      "note": "KP-FHR, TRISO, fluoride salt-cooled high-temperature reactor."
+    },
+    {
+      "file_name": "TaF An Integral Metallic-Fuled and Lead-Cooled Reactor concept.pdf",
+      "path": "/home/user/bot_extract/base/TaF An Integral Metallic-Fuled and Lead-Cooled Reactor concept.pdf",
+      "label": "gen4",
+      "include": true,
+      "note": "Концепт lead-cooled fast reactor для 4th Generation Nuclear Energy Systems."
+    },
+    {
+      "file_name": "WNN Kairos and DOE.docx",
+      "path": "/home/user/bot_extract/base/WNN Kairos and DOE.docx",
+      "label": "gen4",
+      "include": true,
+      "note": "Короткая публикация WNN по Kairos и advanced reactor design."
+    },
+    {
+      "file_name": "WNN_'Hermes 2 construction permits approved.docx",
+      "path": "/home/user/bot_extract/base/WNN_'Hermes 2 construction permits approved.docx",
+      "label": "gen4",
+      "include": true,
+      "note": "Kairos Hermes 2, molten salt-cooled reactors."
+    },
+    {
+      "file_name": "WNN_'Kairos,_DOE_enhance_collaboration_on_advanced_reactor_design'.docx",
+      "path": "/home/user/bot_extract/base/WNN_'Kairos,_DOE_enhance_collaboration_on_advanced_reactor_design'.docx",
+      "label": "gen4",
+      "include": true,
+      "note": "Advanced reactor design, Kairos Power, ORNL."
+    },
+    {
+      "file_name": "atomic energy МФП 20 лет.docx",
+      "path": "/home/user/bot_extract/base/atomic energy МФП 20 лет.docx",
+      "label": "gen4",
+      "include": true,
+      "note": "Короткая новостная заметка о GIF и реакторах поколения IV."
+    },
+    {
+      "file_name": "В_МИФИ_рассказали_о_перспективах_и_недостатках_проекта_малого_реактора.docx",
+      "path": "/home/user/bot_extract/base/В_МИФИ_рассказали_о_перспективах_и_недостатках_проекта_малого_реактора.docx",
+      "label": "gen4",
+      "include": true,
+      "note": "Русскоязычная новость про Natrium и IV поколение."
+    }
+  ]
+}

@@ -1,0 +1,3307 @@
+{
+  "name": "Словарь, собранный по документам из base",
+  "topic": "generation_iv_reactors_base",
+  "updated_at": "2026-03-30T09:37:39.603826+00:00",
+  "entries": [
+    {
+      "canonical": "gFHR Surrogate Model",
+      "category": "learned_from_base",
+      "weight": 1.35,
+      "variants": [
+        "gFHR Surrogate Model",
+        "gfhr surrogate model"
+      ],
+      "doc_count": 1,
+      "avg_score": 0.0001
+    },
+    {
+      "canonical": "Elsevier Generation 4 International Forum",
+      "category": "learned_from_base",
+      "weight": 1.35,
+      "variants": [
+        "Elsevier Generation 4 International Forum",
+        "elsevier generation 4 international forum"
+      ],
+      "doc_count": 1,
+      "avg_score": 0.0
+    },
+    {
+      "canonical": "Elsevier Safety assessment of MSR",
+      "category": "learned_from_base",
+      "weight": 1.35,
+      "variants": [
+        "Elsevier Safety assessment of MSR",
+        "elsevier safety assessment of msr"
+      ],
+      "doc_count": 1,
+      "avg_score": 0.0
+    },
+    {
+      "canonical": "IAEA KP FHR Fuel Performance Methodology",
+      "category": "learned_from_base",
+      "weight": 1.35,
+      "variants": [
+        "IAEA KP FHR Fuel Performance Methodology",
+        "iaea kp fhr fuel performance methodology"
+      ],
+      "doc_count": 1,
+      "avg_score": 0.0
+    },
+    {
+      "canonical": "KP-FHR Fuel Performance",
+      "category": "learned_from_base",
+      "weight": 1.35,
+      "variants": [
+        "KP-FHR Fuel Performance",
+        "kp-fhr fuel performance"
+      ],
+      "doc_count": 1,
+      "avg_score": 0.0001
+    },
+    {
+      "canonical": "Kairos Power LLC",
+      "category": "learned_from_base",
+      "weight": 1.35,
+      "variants": [
+        "Kairos Power LLC",
+        "kairos power llc"
+      ],
+      "doc_count": 1,
+      "avg_score": 0.0001
+    },
+    {
+      "canonical": "KP-FHR Fuel",
+      "category": "learned_from_base",
+      "weight": 1.35,
+      "variants": [
+        "KP-FHR Fuel",
+        "kp-fhr fuel"
+      ],
+      "doc_count": 1,
+      "avg_score": 0.0001
+    },
+    {
+      "canonical": "TRISO fuel performance",
+      "category": "learned_from_base",
+      "weight": 1.35,
+      "variants": [
+        "TRISO fuel performance",
+        "triso fuel performance"
+      ],
+      "doc_count": 1,
+      "avg_score": 0.0001
+    },
+    {
+      "canonical": "Kairos Power Fluoride",
+      "category": "learned_from_base",
+      "weight": 1.35,
+      "variants": [
+        "Kairos Power Fluoride",
+        "kairos power fluoride"
+      ],
+      "doc_count": 1,
+      "avg_score": 0.0001
+    },
+    {
+      "canonical": "KP-FHR TRISO fuel",
+      "category": "learned_from_base",
+      "weight": 1.35,
+      "variants": [
+        "KP-FHR TRISO fuel",
+        "kp-fhr triso fuel"
+      ],
+      "doc_count": 1,
+      "avg_score": 0.0001
+    },
+    {
+      "canonical": "KP-FHR fuel design",
+      "category": "learned_from_base",
+      "weight": 1.35,
+      "variants": [
+        "KP-FHR fuel design",
+        "kp-fhr fuel design"
+      ],
+      "doc_count": 1,
+      "avg_score": 0.0001
+    },
+    {
+      "canonical": "TRISO Fuel Particle",
+      "category": "learned_from_base",
+      "weight": 1.35,
+      "variants": [
+        "TRISO Fuel Particle",
+        "triso fuel particle"
+      ],
+      "doc_count": 1,
+      "avg_score": 0.0001
+    },
+    {
+      "canonical": "TRISO Fuel Failure",
+      "category": "learned_from_base",
+      "weight": 1.35,
+      "variants": [
+        "TRISO Fuel Failure",
+        "triso fuel failure"
+      ],
+      "doc_count": 1,
+      "avg_score": 0.0001
+    },
+    {
+      "canonical": "Kairos Power KP-FHR",
+      "category": "learned_from_base",
+      "weight": 1.35,
+      "variants": [
+        "Kairos Power KP-FHR",
+        "kairos power kp-fhr"
+      ],
+      "doc_count": 1,
+      "avg_score": 0.0001
+    },
+    {
+      "canonical": "Power KP-FHR Kairos",
+      "category": "learned_from_base",
+      "weight": 1.35,
+      "variants": [
+        "Power KP-FHR Kairos",
+        "power kp-fhr kairos"
+      ],
+      "doc_count": 1,
+      "avg_score": 0.0001
+    },
+    {
+      "canonical": "KP-FHR Kairos Power",
+      "category": "learned_from_base",
+      "weight": 1.35,
+      "variants": [
+        "KP-FHR Kairos Power",
+        "kp-fhr kairos power"
+      ],
+      "doc_count": 1,
+      "avg_score": 0.0001
+    },
+    {
+      "canonical": "LLC KP-FHR Fuel",
+      "category": "learned_from_base",
+      "weight": 1.35,
+      "variants": [
+        "LLC KP-FHR Fuel",
+        "llc kp-fhr fuel"
+      ],
+      "doc_count": 1,
+      "avg_score": 0.0001
+    },
+    {
+      "canonical": "Power LLC KP-FHR",
+      "category": "learned_from_base",
+      "weight": 1.35,
+      "variants": [
+        "Power LLC KP-FHR",
+        "power llc kp-fhr"
+      ],
+      "doc_count": 1,
+      "avg_score": 0.0001
+    },
+    {
+      "canonical": "WNN Kairos and DOE",
+      "category": "learned_from_base",
+      "weight": 1.35,
+      "variants": [
+        "WNN Kairos and DOE",
+        "wnn kairos and doe"
+      ],
+      "doc_count": 1,
+      "avg_score": 0.0
+    },
+    {
+      "canonical": "WNN Hermes 2 construction permits approved",
+      "category": "learned_from_base",
+      "weight": 1.35,
+      "variants": [
+        "WNN Hermes 2 construction permits approved",
+        "wnn hermes 2 construction permits approved"
+      ],
+      "doc_count": 1,
+      "avg_score": 0.0
+    },
+    {
+      "canonical": "SAM gFHR model",
+      "category": "learned_from_base",
+      "weight": 1.35,
+      "variants": [
+        "SAM gFHR model",
+        "sam gfhr model"
+      ],
+      "doc_count": 1,
+      "avg_score": 0.0002
+    },
+    {
+      "canonical": "gFHR Surrogate",
+      "category": "learned_from_base",
+      "weight": 1.35,
+      "variants": [
+        "gFHR Surrogate",
+        "gfhr surrogate"
+      ],
+      "doc_count": 1,
+      "avg_score": 0.0002
+    },
+    {
+      "canonical": "supercritical water",
+      "category": "learned_from_base",
+      "weight": 1.35,
+      "variants": [
+        "supercritical water",
+        "supercritical water"
+      ],
+      "doc_count": 1,
+      "avg_score": 0.0002
+    },
+    {
+      "canonical": "FAST REACTOR DESIGNS",
+      "category": "learned_from_base",
+      "weight": 1.35,
+      "variants": [
+        "FAST REACTOR DESIGNS",
+        "fast reactor designs"
+      ],
+      "doc_count": 1,
+      "avg_score": 0.0002
+    },
+    {
+      "canonical": "fast reactor cycle",
+      "category": "learned_from_base",
+      "weight": 1.35,
+      "variants": [
+        "fast reactor cycle",
+        "fast reactor cycle"
+      ],
+      "doc_count": 1,
+      "avg_score": 0.0002
+    },
+    {
+      "canonical": "KP-FHR",
+      "category": "learned_from_base",
+      "weight": 1.35,
+      "variants": [
+        "KP-FHR",
+        "kp-fhr"
+      ],
+      "doc_count": 1,
+      "avg_score": 0.0002
+    },
+    {
+      "canonical": "French Fast Reactor",
+      "category": "learned_from_base",
+      "weight": 1.35,
+      "variants": [
+        "French Fast Reactor",
+        "french fast reactor"
+      ],
+      "doc_count": 1,
+      "avg_score": 0.0003
+    },
+    {
+      "canonical": "Fast reactor technologies",
+      "category": "learned_from_base",
+      "weight": 1.35,
+      "variants": [
+        "Fast reactor technologies",
+        "fast reactor technologies"
+      ],
+      "doc_count": 1,
+      "avg_score": 0.0003
+    },
+    {
+      "canonical": "Particle KP-FHR Fuel",
+      "category": "learned_from_base",
+      "weight": 1.35,
+      "variants": [
+        "Particle KP-FHR Fuel",
+        "particle kp-fhr fuel"
+      ],
+      "doc_count": 1,
+      "avg_score": 0.0003
+    },
+    {
+      "canonical": "Particles KP-FHR Fuel",
+      "category": "learned_from_base",
+      "weight": 1.35,
+      "variants": [
+        "Particles KP-FHR Fuel",
+        "particles kp-fhr fuel"
+      ],
+      "doc_count": 1,
+      "avg_score": 0.0003
+    },
+    {
+      "canonical": "TRISO Fuel Properties",
+      "category": "learned_from_base",
+      "weight": 1.35,
+      "variants": [
+        "TRISO Fuel Properties",
+        "triso fuel properties"
+      ],
+      "doc_count": 1,
+      "avg_score": 0.0003
+    },
+    {
+      "canonical": "Supercritical Water Reactor",
+      "category": "learned_from_base",
+      "weight": 1.35,
+      "variants": [
+        "Supercritical Water Reactor",
+        "supercritical water reactor"
+      ],
+      "doc_count": 1,
+      "avg_score": 0.0004
+    },
+    {
+      "canonical": "Supercritical Water-Cooled Reactors",
+      "category": "learned_from_base",
+      "weight": 1.35,
+      "variants": [
+        "Supercritical Water-Cooled Reactors",
+        "supercritical water-cooled reactors"
+      ],
+      "doc_count": 1,
+      "avg_score": 0.0004
+    },
+    {
+      "canonical": "supercritical water nuclear",
+      "category": "learned_from_base",
+      "weight": 1.35,
+      "variants": [
+        "supercritical water nuclear",
+        "supercritical water nuclear"
+      ],
+      "doc_count": 1,
+      "avg_score": 0.0004
+    },
+    {
+      "canonical": "GIF GIF Policy",
+      "category": "learned_from_base",
+      "weight": 1.35,
+      "variants": [
+        "GIF GIF Policy",
+        "gif gif policy"
+      ],
+      "doc_count": 1,
+      "avg_score": 0.0004
+    },
+    {
+      "canonical": "Development Fast Reactor",
+      "category": "learned_from_base",
+      "weight": 1.35,
+      "variants": [
+        "Development Fast Reactor",
+        "development fast reactor"
+      ],
+      "doc_count": 1,
+      "avg_score": 0.0004
+    },
+    {
+      "canonical": "demonstration fast reactor",
+      "category": "learned_from_base",
+      "weight": 1.35,
+      "variants": [
+        "demonstration fast reactor",
+        "demonstration fast reactor"
+      ],
+      "doc_count": 1,
+      "avg_score": 0.0004
+    },
+    {
+      "canonical": "kernel KP-FHR Fuel",
+      "category": "learned_from_base",
+      "weight": 1.35,
+      "variants": [
+        "kernel KP-FHR Fuel",
+        "kernel kp-fhr fuel"
+      ],
+      "doc_count": 1,
+      "avg_score": 0.0004
+    },
+    {
+      "canonical": "KP-FHR fuel kernel",
+      "category": "learned_from_base",
+      "weight": 1.35,
+      "variants": [
+        "KP-FHR fuel kernel",
+        "kp-fhr fuel kernel"
+      ],
+      "doc_count": 1,
+      "avg_score": 0.0004
+    },
+    {
+      "canonical": "TRISO Particles",
+      "category": "learned_from_base",
+      "weight": 1.35,
+      "variants": [
+        "TRISO Particles",
+        "triso particles"
+      ],
+      "doc_count": 1,
+      "avg_score": 0.0004
+    },
+    {
+      "canonical": "TRISO particle",
+      "category": "learned_from_base",
+      "weight": 1.35,
+      "variants": [
+        "TRISO particle",
+        "triso particle"
+      ],
+      "doc_count": 1,
+      "avg_score": 0.0004
+    },
+    {
+      "canonical": "TRISO Fuel Behavior",
+      "category": "learned_from_base",
+      "weight": 1.35,
+      "variants": [
+        "TRISO Fuel Behavior",
+        "triso fuel behavior"
+      ],
+      "doc_count": 1,
+      "avg_score": 0.0004
+    },
+    {
+      "canonical": "GIF Chair GIF",
+      "category": "learned_from_base",
+      "weight": 1.7,
+      "variants": [
+        "GIF Chair GIF",
+        "gif chair gif"
+      ],
+      "doc_count": 2,
+      "avg_score": 0.0005
+    },
+    {
+      "canonical": "GIF Industry",
+      "category": "learned_from_base",
+      "weight": 1.35,
+      "variants": [
+        "GIF Industry",
+        "gif industry"
+      ],
+      "doc_count": 1,
+      "avg_score": 0.0005
+    },
+    {
+      "canonical": "GIF System energy",
+      "category": "learned_from_base",
+      "weight": 1.35,
+      "variants": [
+        "GIF System energy",
+        "gif system energy"
+      ],
+      "doc_count": 1,
+      "avg_score": 0.0005
+    },
+    {
+      "canonical": "Russian fast reactor",
+      "category": "learned_from_base",
+      "weight": 1.35,
+      "variants": [
+        "Russian fast reactor",
+        "russian fast reactor"
+      ],
+      "doc_count": 1,
+      "avg_score": 0.0005
+    },
+    {
+      "canonical": "Russian fast reactors",
+      "category": "learned_from_base",
+      "weight": 1.35,
+      "variants": [
+        "Russian fast reactors",
+        "russian fast reactors"
+      ],
+      "doc_count": 1,
+      "avg_score": 0.0005
+    },
+    {
+      "canonical": "fast reactor PGSFR",
+      "category": "learned_from_base",
+      "weight": 1.35,
+      "variants": [
+        "fast reactor PGSFR",
+        "fast reactor pgsfr"
+      ],
+      "doc_count": 1,
+      "avg_score": 0.0005
+    },
+    {
+      "canonical": "fast reactor community",
+      "category": "learned_from_base",
+      "weight": 1.35,
+      "variants": [
+        "fast reactor community",
+        "fast reactor community"
+      ],
+      "doc_count": 1,
+      "avg_score": 0.0005
+    },
+    {
+      "canonical": "KP-FHR fuel properties",
+      "category": "learned_from_base",
+      "weight": 1.35,
+      "variants": [
+        "KP-FHR fuel properties",
+        "kp-fhr fuel properties"
+      ],
+      "doc_count": 1,
+      "avg_score": 0.0005
+    },
+    {
+      "canonical": "Kairos Power requests",
+      "category": "learned_from_base",
+      "weight": 1.35,
+      "variants": [
+        "Kairos Power requests",
+        "kairos power requests"
+      ],
+      "doc_count": 1,
+      "avg_score": 0.0005
+    },
+    {
+      "canonical": "TRISO particle fuel",
+      "category": "learned_from_base",
+      "weight": 1.35,
+      "variants": [
+        "TRISO particle fuel",
+        "triso particle fuel"
+      ],
+      "doc_count": 1,
+      "avg_score": 0.0005
+    },
+    {
+      "canonical": "Non-Proprietary KP-FHR Fuel",
+      "category": "learned_from_base",
+      "weight": 1.35,
+      "variants": [
+        "Non-Proprietary KP-FHR Fuel",
+        "non-proprietary kp-fhr fuel"
+      ],
+      "doc_count": 1,
+      "avg_score": 0.0005
+    },
+    {
+      "canonical": "TRISO Particles KP-FHR",
+      "category": "learned_from_base",
+      "weight": 1.35,
+      "variants": [
+        "TRISO Particles KP-FHR",
+        "triso particles kp-fhr"
+      ],
+      "doc_count": 1,
+      "avg_score": 0.0005
+    },
+    {
+      "canonical": "GIF MSR MSRs",
+      "category": "learned_from_base",
+      "weight": 1.35,
+      "variants": [
+        "GIF MSR MSRs",
+        "gif msr msrs"
+      ],
+      "doc_count": 1,
+      "avg_score": 0.0006
+    },
+    {
+      "canonical": "supercritical water reactors",
+      "category": "learned_from_base",
+      "weight": 1.35,
+      "variants": [
+        "supercritical water reactors",
+        "supercritical water reactors"
+      ],
+      "doc_count": 1,
+      "avg_score": 0.0006
+    },
+    {
+      "canonical": "GIF SFR System",
+      "category": "learned_from_base",
+      "weight": 1.35,
+      "variants": [
+        "GIF SFR System",
+        "gif sfr system"
+      ],
+      "doc_count": 1,
+      "avg_score": 0.0006
+    },
+    {
+      "canonical": "Gen-IV reactor systems",
+      "category": "learned_from_base",
+      "weight": 1.35,
+      "variants": [
+        "Gen-IV reactor systems",
+        "gen-iv reactor systems"
+      ],
+      "doc_count": 1,
+      "avg_score": 0.0006
+    },
+    {
+      "canonical": "Pebble Bed",
+      "category": "learned_from_base",
+      "weight": 1.35,
+      "variants": [
+        "Pebble Bed",
+        "pebble bed"
+      ],
+      "doc_count": 1,
+      "avg_score": 0.0006
+    },
+    {
+      "canonical": "Indian fast reactor",
+      "category": "learned_from_base",
+      "weight": 1.35,
+      "variants": [
+        "Indian fast reactor",
+        "indian fast reactor"
+      ],
+      "doc_count": 1,
+      "avg_score": 0.0006
+    },
+    {
+      "canonical": "fast reactor Joyo",
+      "category": "learned_from_base",
+      "weight": 1.35,
+      "variants": [
+        "fast reactor Joyo",
+        "fast reactor joyo"
+      ],
+      "doc_count": 1,
+      "avg_score": 0.0006
+    },
+    {
+      "canonical": "carbon KP-FHR Fuel",
+      "category": "learned_from_base",
+      "weight": 1.35,
+      "variants": [
+        "carbon KP-FHR Fuel",
+        "carbon kp-fhr fuel"
+      ],
+      "doc_count": 1,
+      "avg_score": 0.0006
+    },
+    {
+      "canonical": "GIF LFR systems",
+      "category": "learned_from_base",
+      "weight": 2.05,
+      "variants": [
+        "GIF LFR systems",
+        "gif lfr systems"
+      ],
+      "doc_count": 3,
+      "avg_score": 0.0006
+    },
+    {
+      "canonical": "supercritical water-cooled reactor",
+      "category": "learned_from_base",
+      "weight": 1.35,
+      "variants": [
+        "supercritical water-cooled reactor",
+        "supercritical water-cooled reactor"
+      ],
+      "doc_count": 1,
+      "avg_score": 0.0007
+    },
+    {
+      "canonical": "salt reactors",
+      "category": "learned_from_base",
+      "weight": 1.35,
+      "variants": [
+        "salt reactors",
+        "salt reactors"
+      ],
+      "doc_count": 1,
+      "avg_score": 0.0007
+    },
+    {
+      "canonical": "GIF technical projects",
+      "category": "learned_from_base",
+      "weight": 1.35,
+      "variants": [
+        "GIF technical projects",
+        "gif technical projects"
+      ],
+      "doc_count": 1,
+      "avg_score": 0.0007
+    },
+    {
+      "canonical": "Fast Reactor GIF",
+      "category": "learned_from_base",
+      "weight": 1.35,
+      "variants": [
+        "Fast Reactor GIF",
+        "fast reactor gif"
+      ],
+      "doc_count": 1,
+      "avg_score": 0.0007
+    },
+    {
+      "canonical": "GIF MSR group",
+      "category": "learned_from_base",
+      "weight": 1.35,
+      "variants": [
+        "GIF MSR group",
+        "gif msr group"
+      ],
+      "doc_count": 1,
+      "avg_score": 0.0007
+    },
+    {
+      "canonical": "Fast Reactors Cooled",
+      "category": "learned_from_base",
+      "weight": 1.35,
+      "variants": [
+        "Fast Reactors Cooled",
+        "fast reactors cooled"
+      ],
+      "doc_count": 1,
+      "avg_score": 0.0007
+    },
+    {
+      "canonical": "Validation KP-FHR Fuel",
+      "category": "learned_from_base",
+      "weight": 1.35,
+      "variants": [
+        "Validation KP-FHR Fuel",
+        "validation kp-fhr fuel"
+      ],
+      "doc_count": 1,
+      "avg_score": 0.0007
+    },
+    {
+      "canonical": "coolant KP-FHR Fuel",
+      "category": "learned_from_base",
+      "weight": 1.35,
+      "variants": [
+        "coolant KP-FHR Fuel",
+        "coolant kp-fhr fuel"
+      ],
+      "doc_count": 1,
+      "avg_score": 0.0007
+    },
+    {
+      "canonical": "Matrix KP-FHR Fuel",
+      "category": "learned_from_base",
+      "weight": 1.35,
+      "variants": [
+        "Matrix KP-FHR Fuel",
+        "matrix kp-fhr fuel"
+      ],
+      "doc_count": 1,
+      "avg_score": 0.0007
+    },
+    {
+      "canonical": "Pebble KP-FHR Fuel",
+      "category": "learned_from_base",
+      "weight": 1.35,
+      "variants": [
+        "Pebble KP-FHR Fuel",
+        "pebble kp-fhr fuel"
+      ],
+      "doc_count": 1,
+      "avg_score": 0.0007
+    },
+    {
+      "canonical": "GIF Technical",
+      "category": "learned_from_base",
+      "weight": 2.4,
+      "variants": [
+        "GIF Technical",
+        "gif technical"
+      ],
+      "doc_count": 4,
+      "avg_score": 0.0008
+    },
+    {
+      "canonical": "GIF reactor systems",
+      "category": "learned_from_base",
+      "weight": 2.05,
+      "variants": [
+        "GIF reactor systems",
+        "gif reactor systems"
+      ],
+      "doc_count": 3,
+      "avg_score": 0.0008
+    },
+    {
+      "canonical": "SCWR materials corrosion",
+      "category": "learned_from_base",
+      "weight": 1.35,
+      "variants": [
+        "SCWR materials corrosion",
+        "scwr materials corrosion"
+      ],
+      "doc_count": 1,
+      "avg_score": 0.0008
+    },
+    {
+      "canonical": "GIF molten salt",
+      "category": "learned_from_base",
+      "weight": 1.35,
+      "variants": [
+        "GIF molten salt",
+        "gif molten salt"
+      ],
+      "doc_count": 1,
+      "avg_score": 0.0008
+    },
+    {
+      "canonical": "GIF GFR system",
+      "category": "learned_from_base",
+      "weight": 1.35,
+      "variants": [
+        "GIF GFR system",
+        "gif gfr system"
+      ],
+      "doc_count": 1,
+      "avg_score": 0.0008
+    },
+    {
+      "canonical": "Group Chair GIF",
+      "category": "learned_from_base",
+      "weight": 1.35,
+      "variants": [
+        "Group Chair GIF",
+        "group chair gif"
+      ],
+      "doc_count": 1,
+      "avg_score": 0.0008
+    },
+    {
+      "canonical": "FIMA KP-FHR Fuel",
+      "category": "learned_from_base",
+      "weight": 1.35,
+      "variants": [
+        "FIMA KP-FHR Fuel",
+        "fima kp-fhr fuel"
+      ],
+      "doc_count": 1,
+      "avg_score": 0.0008
+    },
+    {
+      "canonical": "irradiated TRISO fuel",
+      "category": "learned_from_base",
+      "weight": 1.35,
+      "variants": [
+        "irradiated TRISO fuel",
+        "irradiated triso fuel"
+      ],
+      "doc_count": 1,
+      "avg_score": 0.0008
+    },
+    {
+      "canonical": "stress KP-FHR Fuel",
+      "category": "learned_from_base",
+      "weight": 1.35,
+      "variants": [
+        "stress KP-FHR Fuel",
+        "stress kp-fhr fuel"
+      ],
+      "doc_count": 1,
+      "avg_score": 0.0008
+    },
+    {
+      "canonical": "KP-FHR fuel behavior",
+      "category": "learned_from_base",
+      "weight": 1.35,
+      "variants": [
+        "KP-FHR fuel behavior",
+        "kp-fhr fuel behavior"
+      ],
+      "doc_count": 1,
+      "avg_score": 0.0008
+    },
+    {
+      "canonical": "advanced fast reactor",
+      "category": "learned_from_base",
+      "weight": 1.7,
+      "variants": [
+        "advanced fast reactor",
+        "advanced fast reactor"
+      ],
+      "doc_count": 2,
+      "avg_score": 0.0009
+    },
+    {
+      "canonical": "GIF VHTR system",
+      "category": "learned_from_base",
+      "weight": 1.35,
+      "variants": [
+        "GIF VHTR system",
+        "gif vhtr system"
+      ],
+      "doc_count": 1,
+      "avg_score": 0.0009
+    },
+    {
+      "canonical": "SAM gFHR",
+      "category": "learned_from_base",
+      "weight": 1.35,
+      "variants": [
+        "SAM gFHR",
+        "sam gfhr"
+      ],
+      "doc_count": 1,
+      "avg_score": 0.0009
+    },
+    {
+      "canonical": "GIF MSR project",
+      "category": "learned_from_base",
+      "weight": 1.35,
+      "variants": [
+        "GIF MSR project",
+        "gif msr project"
+      ],
+      "doc_count": 1,
+      "avg_score": 0.0009
+    },
+    {
+      "canonical": "LEAD COOLED FAST",
+      "category": "learned_from_base",
+      "weight": 1.35,
+      "variants": [
+        "LEAD COOLED FAST",
+        "lead cooled fast"
+      ],
+      "doc_count": 1,
+      "avg_score": 0.0009
+    },
+    {
+      "canonical": "Liquid metal cooled",
+      "category": "learned_from_base",
+      "weight": 1.35,
+      "variants": [
+        "Liquid metal cooled",
+        "liquid metal cooled"
+      ],
+      "doc_count": 1,
+      "avg_score": 0.0009
+    },
+    {
+      "canonical": "INL TRISO fuel",
+      "category": "learned_from_base",
+      "weight": 1.35,
+      "variants": [
+        "INL TRISO fuel",
+        "inl triso fuel"
+      ],
+      "doc_count": 1,
+      "avg_score": 0.0009
+    },
+    {
+      "canonical": "pebble bed core",
+      "category": "learned_from_base",
+      "weight": 1.35,
+      "variants": [
+        "pebble bed core",
+        "pebble bed core"
+      ],
+      "doc_count": 1,
+      "avg_score": 0.001
+    },
+    {
+      "canonical": "sodium cooled reactors",
+      "category": "learned_from_base",
+      "weight": 1.35,
+      "variants": [
+        "sodium cooled reactors",
+        "sodium cooled reactors"
+      ],
+      "doc_count": 1,
+      "avg_score": 0.001
+    },
+    {
+      "canonical": "lead cooled reactors",
+      "category": "learned_from_base",
+      "weight": 1.35,
+      "variants": [
+        "lead cooled reactors",
+        "lead cooled reactors"
+      ],
+      "doc_count": 1,
+      "avg_score": 0.001
+    },
+    {
+      "canonical": "lead cooled reactor",
+      "category": "learned_from_base",
+      "weight": 1.35,
+      "variants": [
+        "lead cooled reactor",
+        "lead cooled reactor"
+      ],
+      "doc_count": 1,
+      "avg_score": 0.001
+    },
+    {
+      "canonical": "KP-FHR fuel element",
+      "category": "learned_from_base",
+      "weight": 1.35,
+      "variants": [
+        "KP-FHR fuel element",
+        "kp-fhr fuel element"
+      ],
+      "doc_count": 1,
+      "avg_score": 0.001
+    },
+    {
+      "canonical": "10-2 KP-FHR Fuel",
+      "category": "learned_from_base",
+      "weight": 1.35,
+      "variants": [
+        "10-2 KP-FHR Fuel",
+        "10-2 kp-fhr fuel"
+      ],
+      "doc_count": 1,
+      "avg_score": 0.001
+    },
+    {
+      "canonical": "Kairos’ fuel performance",
+      "category": "learned_from_base",
+      "weight": 1.35,
+      "variants": [
+        "Kairos’ fuel performance",
+        "kairos fuel performance"
+      ],
+      "doc_count": 1,
+      "avg_score": 0.001
+    },
+    {
+      "canonical": "GIF VHTR Materials",
+      "category": "learned_from_base",
+      "weight": 1.35,
+      "variants": [
+        "GIF VHTR Materials",
+        "gif vhtr materials"
+      ],
+      "doc_count": 1,
+      "avg_score": 0.0011
+    },
+    {
+      "canonical": "gFHR model",
+      "category": "learned_from_base",
+      "weight": 1.35,
+      "variants": [
+        "gFHR model",
+        "gfhr model"
+      ],
+      "doc_count": 1,
+      "avg_score": 0.0011
+    },
+    {
+      "canonical": "Liquid Metal",
+      "category": "learned_from_base",
+      "weight": 1.35,
+      "variants": [
+        "Liquid Metal",
+        "liquid metal"
+      ],
+      "doc_count": 1,
+      "avg_score": 0.0011
+    },
+    {
+      "canonical": "spherical KP-FHR fuel",
+      "category": "learned_from_base",
+      "weight": 1.35,
+      "variants": [
+        "spherical KP-FHR fuel",
+        "spherical kp-fhr fuel"
+      ],
+      "doc_count": 1,
+      "avg_score": 0.0011
+    },
+    {
+      "canonical": "Kairos Power Quality",
+      "category": "learned_from_base",
+      "weight": 1.35,
+      "variants": [
+        "Kairos Power Quality",
+        "kairos power quality"
+      ],
+      "doc_count": 1,
+      "avg_score": 0.0011
+    },
+    {
+      "canonical": "TRISO-coated fuel particles",
+      "category": "learned_from_base",
+      "weight": 1.35,
+      "variants": [
+        "TRISO-coated fuel particles",
+        "triso-coated fuel particles"
+      ],
+      "doc_count": 1,
+      "avg_score": 0.0011
+    },
+    {
+      "canonical": "GIF Safety Design",
+      "category": "learned_from_base",
+      "weight": 1.7,
+      "variants": [
+        "GIF Safety Design",
+        "gif safety design"
+      ],
+      "doc_count": 2,
+      "avg_score": 0.0012
+    },
+    {
+      "canonical": "sodium cooled reactor",
+      "category": "learned_from_base",
+      "weight": 1.7,
+      "variants": [
+        "sodium cooled reactor",
+        "sodium cooled reactor"
+      ],
+      "doc_count": 2,
+      "avg_score": 0.0012
+    },
+    {
+      "canonical": "modified gFHR Surrogate",
+      "category": "learned_from_base",
+      "weight": 1.35,
+      "variants": [
+        "modified gFHR Surrogate",
+        "modified gfhr surrogate"
+      ],
+      "doc_count": 1,
+      "avg_score": 0.0012
+    },
+    {
+      "canonical": "GIF Experts Group",
+      "category": "learned_from_base",
+      "weight": 1.35,
+      "variants": [
+        "GIF Experts Group",
+        "gif experts group"
+      ],
+      "doc_count": 1,
+      "avg_score": 0.0012
+    },
+    {
+      "canonical": "Gen-IV systems GIF",
+      "category": "learned_from_base",
+      "weight": 1.35,
+      "variants": [
+        "Gen-IV systems GIF",
+        "gen-iv systems gif"
+      ],
+      "doc_count": 1,
+      "avg_score": 0.0012
+    },
+    {
+      "canonical": "GIF VHTR",
+      "category": "learned_from_base",
+      "weight": 1.35,
+      "variants": [
+        "GIF VHTR",
+        "gif vhtr"
+      ],
+      "doc_count": 1,
+      "avg_score": 0.0012
+    },
+    {
+      "canonical": "KP-FHR fuel specifications",
+      "category": "learned_from_base",
+      "weight": 1.35,
+      "variants": [
+        "KP-FHR fuel specifications",
+        "kp-fhr fuel specifications"
+      ],
+      "doc_count": 1,
+      "avg_score": 0.0012
+    },
+    {
+      "canonical": "Kairos Power submitted",
+      "category": "learned_from_base",
+      "weight": 1.35,
+      "variants": [
+        "Kairos Power submitted",
+        "kairos power submitted"
+      ],
+      "doc_count": 1,
+      "avg_score": 0.0012
+    },
+    {
+      "canonical": "Fast Reactor Safety",
+      "category": "learned_from_base",
+      "weight": 1.7,
+      "variants": [
+        "Fast Reactor Safety",
+        "fast reactor safety"
+      ],
+      "doc_count": 2,
+      "avg_score": 0.0013
+    },
+    {
+      "canonical": "GIF LFR",
+      "category": "learned_from_base",
+      "weight": 2.05,
+      "variants": [
+        "GIF LFR",
+        "gif lfr"
+      ],
+      "doc_count": 3,
+      "avg_score": 0.0013
+    },
+    {
+      "canonical": "fast reactor nuclear",
+      "category": "learned_from_base",
+      "weight": 1.35,
+      "variants": [
+        "fast reactor nuclear",
+        "fast reactor nuclear"
+      ],
+      "doc_count": 1,
+      "avg_score": 0.0013
+    },
+    {
+      "canonical": "SODIUM COOLED FAST",
+      "category": "learned_from_base",
+      "weight": 1.7,
+      "variants": [
+        "SODIUM COOLED FAST",
+        "sodium cooled fast"
+      ],
+      "doc_count": 2,
+      "avg_score": 0.0013
+    },
+    {
+      "canonical": "GIF GIF position",
+      "category": "learned_from_base",
+      "weight": 1.7,
+      "variants": [
+        "GIF GIF position",
+        "gif gif position"
+      ],
+      "doc_count": 2,
+      "avg_score": 0.0014
+    },
+    {
+      "canonical": "VHTR Materials Project",
+      "category": "learned_from_base",
+      "weight": 1.35,
+      "variants": [
+        "VHTR Materials Project",
+        "vhtr materials project"
+      ],
+      "doc_count": 1,
+      "avg_score": 0.0014
+    },
+    {
+      "canonical": "GIF Policy",
+      "category": "learned_from_base",
+      "weight": 1.35,
+      "variants": [
+        "GIF Policy",
+        "gif policy"
+      ],
+      "doc_count": 1,
+      "avg_score": 0.0014
+    },
+    {
+      "canonical": "elected GIF GIF",
+      "category": "learned_from_base",
+      "weight": 1.35,
+      "variants": [
+        "elected GIF GIF",
+        "elected gif gif"
+      ],
+      "doc_count": 1,
+      "avg_score": 0.0014
+    },
+    {
+      "canonical": "random pebble bed",
+      "category": "learned_from_base",
+      "weight": 1.35,
+      "variants": [
+        "random pebble bed",
+        "random pebble bed"
+      ],
+      "doc_count": 1,
+      "avg_score": 0.0014
+    },
+    {
+      "canonical": "GIF Industry Forum",
+      "category": "learned_from_base",
+      "weight": 1.7,
+      "variants": [
+        "GIF Industry Forum",
+        "gif industry forum"
+      ],
+      "doc_count": 2,
+      "avg_score": 0.0015
+    },
+    {
+      "canonical": "Lead-cooled fast reactor",
+      "category": "learned_from_base",
+      "weight": 2.4,
+      "variants": [
+        "Lead-cooled fast reactor",
+        "lead-cooled fast reactor"
+      ],
+      "doc_count": 4,
+      "avg_score": 0.0015
+    },
+    {
+      "canonical": "advanced reactor industry",
+      "category": "learned_from_base",
+      "weight": 1.35,
+      "variants": [
+        "advanced reactor industry",
+        "advanced reactor industry"
+      ],
+      "doc_count": 1,
+      "avg_score": 0.0015
+    },
+    {
+      "canonical": "Asset gFHR Surrogate",
+      "category": "learned_from_base",
+      "weight": 1.35,
+      "variants": [
+        "Asset gFHR Surrogate",
+        "asset gfhr surrogate"
+      ],
+      "doc_count": 1,
+      "avg_score": 0.0015
+    },
+    {
+      "canonical": "Fast Reactors Fuel",
+      "category": "learned_from_base",
+      "weight": 1.35,
+      "variants": [
+        "Fast Reactors Fuel",
+        "fast reactors fuel"
+      ],
+      "doc_count": 1,
+      "avg_score": 0.0015
+    },
+    {
+      "canonical": "reactor fast reactor",
+      "category": "learned_from_base",
+      "weight": 1.35,
+      "variants": [
+        "reactor fast reactor",
+        "reactor fast reactor"
+      ],
+      "doc_count": 1,
+      "avg_score": 0.0015
+    },
+    {
+      "canonical": "Fast Reactor System",
+      "category": "learned_from_base",
+      "weight": 2.4,
+      "variants": [
+        "Fast Reactor System",
+        "fast reactor system"
+      ],
+      "doc_count": 4,
+      "avg_score": 0.0016
+    },
+    {
+      "canonical": "experimental fast reactor",
+      "category": "learned_from_base",
+      "weight": 1.7,
+      "variants": [
+        "experimental fast reactor",
+        "experimental fast reactor"
+      ],
+      "doc_count": 2,
+      "avg_score": 0.0016
+    },
+    {
+      "canonical": "GIF project arrangement",
+      "category": "learned_from_base",
+      "weight": 1.35,
+      "variants": [
+        "GIF project arrangement",
+        "gif project arrangement"
+      ],
+      "doc_count": 1,
+      "avg_score": 0.0016
+    },
+    {
+      "canonical": "gFHR",
+      "category": "learned_from_base",
+      "weight": 1.35,
+      "variants": [
+        "gFHR",
+        "gfhr"
+      ],
+      "doc_count": 1,
+      "avg_score": 0.0016
+    },
+    {
+      "canonical": "liquid metal coolant",
+      "category": "learned_from_base",
+      "weight": 1.35,
+      "variants": [
+        "liquid metal coolant",
+        "liquid metal coolant"
+      ],
+      "doc_count": 1,
+      "avg_score": 0.0016
+    },
+    {
+      "canonical": "fast reactor technology",
+      "category": "learned_from_base",
+      "weight": 2.4,
+      "variants": [
+        "fast reactor technology",
+        "fast reactor technology"
+      ],
+      "doc_count": 4,
+      "avg_score": 0.0017
+    },
+    {
+      "canonical": "SAM gFHR reactor",
+      "category": "learned_from_base",
+      "weight": 1.35,
+      "variants": [
+        "SAM gFHR reactor",
+        "sam gfhr reactor"
+      ],
+      "doc_count": 1,
+      "avg_score": 0.0017
+    },
+    {
+      "canonical": "Virtual Asset gFHR",
+      "category": "learned_from_base",
+      "weight": 1.35,
+      "variants": [
+        "Virtual Asset gFHR",
+        "virtual asset gfhr"
+      ],
+      "doc_count": 1,
+      "avg_score": 0.0017
+    },
+    {
+      "canonical": "Gen-IV nuclear energy",
+      "category": "learned_from_base",
+      "weight": 1.35,
+      "variants": [
+        "Gen-IV nuclear energy",
+        "gen-iv nuclear energy"
+      ],
+      "doc_count": 1,
+      "avg_score": 0.0017
+    },
+    {
+      "canonical": "advanced reactors fuel",
+      "category": "learned_from_base",
+      "weight": 1.35,
+      "variants": [
+        "advanced reactors fuel",
+        "advanced reactors fuel"
+      ],
+      "doc_count": 1,
+      "avg_score": 0.0017
+    },
+    {
+      "canonical": "Sodium-cooled fast reactor",
+      "category": "learned_from_base",
+      "weight": 2.4,
+      "variants": [
+        "Sodium-cooled fast reactor",
+        "sodium-cooled fast reactor"
+      ],
+      "doc_count": 4,
+      "avg_score": 0.0018
+    },
+    {
+      "canonical": "salt reactor fuel",
+      "category": "learned_from_base",
+      "weight": 1.35,
+      "variants": [
+        "salt reactor fuel",
+        "salt reactor fuel"
+      ],
+      "doc_count": 1,
+      "avg_score": 0.0018
+    },
+    {
+      "canonical": "power fast reactor",
+      "category": "learned_from_base",
+      "weight": 1.35,
+      "variants": [
+        "power fast reactor",
+        "power fast reactor"
+      ],
+      "doc_count": 1,
+      "avg_score": 0.0018
+    },
+    {
+      "canonical": "GIF lead-cooled fast",
+      "category": "learned_from_base",
+      "weight": 2.05,
+      "variants": [
+        "GIF lead-cooled fast",
+        "gif lead-cooled fast"
+      ],
+      "doc_count": 3,
+      "avg_score": 0.0019
+    },
+    {
+      "canonical": "Pump gFHR Surrogate",
+      "category": "learned_from_base",
+      "weight": 1.35,
+      "variants": [
+        "Pump gFHR Surrogate",
+        "pump gfhr surrogate"
+      ],
+      "doc_count": 1,
+      "avg_score": 0.0019
+    },
+    {
+      "canonical": "axisymmetric MSFR",
+      "category": "learned_from_base",
+      "weight": 1.35,
+      "variants": [
+        "axisymmetric MSFR",
+        "axisymmetric msfr"
+      ],
+      "doc_count": 1,
+      "avg_score": 0.0019
+    },
+    {
+      "canonical": "Gen-IV systems",
+      "category": "learned_from_base",
+      "weight": 1.35,
+      "variants": [
+        "Gen-IV systems",
+        "gen-iv systems"
+      ],
+      "doc_count": 1,
+      "avg_score": 0.0019
+    },
+    {
+      "canonical": "GIF VHTR SSC",
+      "category": "learned_from_base",
+      "weight": 1.35,
+      "variants": [
+        "GIF VHTR SSC",
+        "gif vhtr ssc"
+      ],
+      "doc_count": 1,
+      "avg_score": 0.0019
+    },
+    {
+      "canonical": "Liquid Metal Coolants",
+      "category": "learned_from_base",
+      "weight": 1.35,
+      "variants": [
+        "Liquid Metal Coolants",
+        "liquid metal coolants"
+      ],
+      "doc_count": 1,
+      "avg_score": 0.0019
+    },
+    {
+      "canonical": "GIF Senior Industry",
+      "category": "learned_from_base",
+      "weight": 2.05,
+      "variants": [
+        "GIF Senior Industry",
+        "gif senior industry"
+      ],
+      "doc_count": 3,
+      "avg_score": 0.002
+    },
+    {
+      "canonical": "Gas-cooled fast reactor",
+      "category": "learned_from_base",
+      "weight": 1.7,
+      "variants": [
+        "Gas-cooled fast reactor",
+        "gas-cooled fast reactor"
+      ],
+      "doc_count": 2,
+      "avg_score": 0.0019
+    },
+    {
+      "canonical": "GIF LFR pSSC",
+      "category": "learned_from_base",
+      "weight": 1.7,
+      "variants": [
+        "GIF LFR pSSC",
+        "gif lfr pssc"
+      ],
+      "doc_count": 2,
+      "avg_score": 0.002
+    },
+    {
+      "canonical": "GIF SIAP report",
+      "category": "learned_from_base",
+      "weight": 1.35,
+      "variants": [
+        "GIF SIAP report",
+        "gif siap report"
+      ],
+      "doc_count": 1,
+      "avg_score": 0.002
+    },
+    {
+      "canonical": "fast reactor systems",
+      "category": "learned_from_base",
+      "weight": 2.05,
+      "variants": [
+        "fast reactor systems",
+        "fast reactor systems"
+      ],
+      "doc_count": 3,
+      "avg_score": 0.0021
+    },
+    {
+      "canonical": "GIF Technical Director",
+      "category": "learned_from_base",
+      "weight": 1.7,
+      "variants": [
+        "GIF Technical Director",
+        "gif technical director"
+      ],
+      "doc_count": 2,
+      "avg_score": 0.002
+    },
+    {
+      "canonical": "conference GIF Industry",
+      "category": "learned_from_base",
+      "weight": 1.35,
+      "variants": [
+        "conference GIF Industry",
+        "conference gif industry"
+      ],
+      "doc_count": 1,
+      "avg_score": 0.0021
+    },
+    {
+      "canonical": "MSR fuel salt",
+      "category": "learned_from_base",
+      "weight": 1.35,
+      "variants": [
+        "MSR fuel salt",
+        "msr fuel salt"
+      ],
+      "doc_count": 1,
+      "avg_score": 0.0021
+    },
+    {
+      "canonical": "Lead Fast Reactor",
+      "category": "learned_from_base",
+      "weight": 2.05,
+      "variants": [
+        "Lead Fast Reactor",
+        "lead fast reactor"
+      ],
+      "doc_count": 3,
+      "avg_score": 0.0022
+    },
+    {
+      "canonical": "GIF Policy Director",
+      "category": "learned_from_base",
+      "weight": 1.7,
+      "variants": [
+        "GIF Policy Director",
+        "gif policy director"
+      ],
+      "doc_count": 2,
+      "avg_score": 0.0022
+    },
+    {
+      "canonical": "GIF Technical Secre",
+      "category": "learned_from_base",
+      "weight": 1.35,
+      "variants": [
+        "GIF Technical Secre",
+        "gif technical secre"
+      ],
+      "doc_count": 1,
+      "avg_score": 0.0022
+    },
+    {
+      "canonical": "GIF sodium-cooled fast",
+      "category": "learned_from_base",
+      "weight": 1.35,
+      "variants": [
+        "GIF sodium-cooled fast",
+        "gif sodium-cooled fast"
+      ],
+      "doc_count": 1,
+      "avg_score": 0.0022
+    },
+    {
+      "canonical": "GIF projects",
+      "category": "learned_from_base",
+      "weight": 1.7,
+      "variants": [
+        "GIF projects",
+        "gif projects"
+      ],
+      "doc_count": 2,
+      "avg_score": 0.0022
+    },
+    {
+      "canonical": "GIF International Atomic",
+      "category": "learned_from_base",
+      "weight": 1.35,
+      "variants": [
+        "GIF International Atomic",
+        "gif international atomic"
+      ],
+      "doc_count": 1,
+      "avg_score": 0.0023
+    },
+    {
+      "canonical": "Fast Reactor Project",
+      "category": "learned_from_base",
+      "weight": 1.35,
+      "variants": [
+        "Fast Reactor Project",
+        "fast reactor project"
+      ],
+      "doc_count": 1,
+      "avg_score": 0.0023
+    },
+    {
+      "canonical": "LEAD COOLED",
+      "category": "learned_from_base",
+      "weight": 1.35,
+      "variants": [
+        "LEAD COOLED",
+        "lead cooled"
+      ],
+      "doc_count": 1,
+      "avg_score": 0.0023
+    },
+    {
+      "canonical": "advanced reactor designs",
+      "category": "learned_from_base",
+      "weight": 2.05,
+      "variants": [
+        "advanced reactor designs",
+        "advanced reactor designs"
+      ],
+      "doc_count": 3,
+      "avg_score": 0.0024
+    },
+    {
+      "canonical": "Canadian SCWR fuel",
+      "category": "learned_from_base",
+      "weight": 1.35,
+      "variants": [
+        "Canadian SCWR fuel",
+        "canadian scwr fuel"
+      ],
+      "doc_count": 1,
+      "avg_score": 0.0024
+    },
+    {
+      "canonical": "fuel salt reactor",
+      "category": "learned_from_base",
+      "weight": 1.35,
+      "variants": [
+        "fuel salt reactor",
+        "fuel salt reactor"
+      ],
+      "doc_count": 1,
+      "avg_score": 0.0024
+    },
+    {
+      "canonical": "fast reactor concept",
+      "category": "learned_from_base",
+      "weight": 1.35,
+      "variants": [
+        "fast reactor concept",
+        "fast reactor concept"
+      ],
+      "doc_count": 1,
+      "avg_score": 0.0024
+    },
+    {
+      "canonical": "REPORT TRISO fuel",
+      "category": "learned_from_base",
+      "weight": 1.35,
+      "variants": [
+        "REPORT TRISO fuel",
+        "report triso fuel"
+      ],
+      "doc_count": 1,
+      "avg_score": 0.0025
+    },
+    {
+      "canonical": "molten salt fuel",
+      "category": "learned_from_base",
+      "weight": 1.35,
+      "variants": [
+        "molten salt fuel",
+        "molten salt fuel"
+      ],
+      "doc_count": 1,
+      "avg_score": 0.0025
+    },
+    {
+      "canonical": "Canadian SCWR",
+      "category": "learned_from_base",
+      "weight": 1.35,
+      "variants": [
+        "Canadian SCWR",
+        "canadian scwr"
+      ],
+      "doc_count": 1,
+      "avg_score": 0.0025
+    },
+    {
+      "canonical": "supercritical water-cooled",
+      "category": "learned_from_base",
+      "weight": 1.35,
+      "variants": [
+        "supercritical water-cooled",
+        "supercritical water-cooled"
+      ],
+      "doc_count": 1,
+      "avg_score": 0.0025
+    },
+    {
+      "canonical": "MWt test MSR",
+      "category": "learned_from_base",
+      "weight": 1.35,
+      "variants": [
+        "MWt test MSR",
+        "mwt test msr"
+      ],
+      "doc_count": 1,
+      "avg_score": 0.0025
+    },
+    {
+      "canonical": "GIF VHTR Hydrogen",
+      "category": "learned_from_base",
+      "weight": 1.35,
+      "variants": [
+        "GIF VHTR Hydrogen",
+        "gif vhtr hydrogen"
+      ],
+      "doc_count": 1,
+      "avg_score": 0.0025
+    },
+    {
+      "canonical": "Advanced Reactor Safety",
+      "category": "learned_from_base",
+      "weight": 1.35,
+      "variants": [
+        "Advanced Reactor Safety",
+        "advanced reactor safety"
+      ],
+      "doc_count": 1,
+      "avg_score": 0.0025
+    },
+    {
+      "canonical": "Salt Reactor Safety",
+      "category": "learned_from_base",
+      "weight": 1.35,
+      "variants": [
+        "Salt Reactor Safety",
+        "salt reactor safety"
+      ],
+      "doc_count": 1,
+      "avg_score": 0.0025
+    },
+    {
+      "canonical": "sodium cooled",
+      "category": "learned_from_base",
+      "weight": 1.35,
+      "variants": [
+        "sodium cooled",
+        "sodium cooled"
+      ],
+      "doc_count": 1,
+      "avg_score": 0.0025
+    },
+    {
+      "canonical": "GIF collaborations",
+      "category": "learned_from_base",
+      "weight": 1.7,
+      "variants": [
+        "GIF collaborations",
+        "gif collaborations"
+      ],
+      "doc_count": 2,
+      "avg_score": 0.0026
+    },
+    {
+      "canonical": "MSR fuel cycle",
+      "category": "learned_from_base",
+      "weight": 1.7,
+      "variants": [
+        "MSR fuel cycle",
+        "msr fuel cycle"
+      ],
+      "doc_count": 2,
+      "avg_score": 0.0026
+    },
+    {
+      "canonical": "MSR fuel National",
+      "category": "learned_from_base",
+      "weight": 1.35,
+      "variants": [
+        "MSR fuel National",
+        "msr fuel national"
+      ],
+      "doc_count": 1,
+      "avg_score": 0.0026
+    },
+    {
+      "canonical": "fuel National MSR",
+      "category": "learned_from_base",
+      "weight": 1.35,
+      "variants": [
+        "fuel National MSR",
+        "fuel national msr"
+      ],
+      "doc_count": 1,
+      "avg_score": 0.0026
+    },
+    {
+      "canonical": "Technology Cost GIF",
+      "category": "learned_from_base",
+      "weight": 1.35,
+      "variants": [
+        "Technology Cost GIF",
+        "technology cost gif"
+      ],
+      "doc_count": 1,
+      "avg_score": 0.0026
+    },
+    {
+      "canonical": "LFR systems project",
+      "category": "learned_from_base",
+      "weight": 1.35,
+      "variants": [
+        "LFR systems project",
+        "lfr systems project"
+      ],
+      "doc_count": 1,
+      "avg_score": 0.0026
+    },
+    {
+      "canonical": "GIF MSR collaboration",
+      "category": "learned_from_base",
+      "weight": 1.35,
+      "variants": [
+        "GIF MSR collaboration",
+        "gif msr collaboration"
+      ],
+      "doc_count": 1,
+      "avg_score": 0.0026
+    },
+    {
+      "canonical": "efforts GIF LFR",
+      "category": "learned_from_base",
+      "weight": 1.35,
+      "variants": [
+        "efforts GIF LFR",
+        "efforts gif lfr"
+      ],
+      "doc_count": 1,
+      "avg_score": 0.0026
+    },
+    {
+      "canonical": "GIF MSR",
+      "category": "learned_from_base",
+      "weight": 1.35,
+      "variants": [
+        "GIF MSR",
+        "gif msr"
+      ],
+      "doc_count": 1,
+      "avg_score": 0.0026
+    },
+    {
+      "canonical": "Technical Director GIF",
+      "category": "learned_from_base",
+      "weight": 1.35,
+      "variants": [
+        "Technical Director GIF",
+        "technical director gif"
+      ],
+      "doc_count": 1,
+      "avg_score": 0.0026
+    },
+    {
+      "canonical": "pebble bed cores",
+      "category": "learned_from_base",
+      "weight": 1.35,
+      "variants": [
+        "pebble bed cores",
+        "pebble bed cores"
+      ],
+      "doc_count": 1,
+      "avg_score": 0.0026
+    },
+    {
+      "canonical": "fast reactor coolants",
+      "category": "learned_from_base",
+      "weight": 1.35,
+      "variants": [
+        "fast reactor coolants",
+        "fast reactor coolants"
+      ],
+      "doc_count": 1,
+      "avg_score": 0.0026
+    },
+    {
+      "canonical": "fast reactor coolant",
+      "category": "learned_from_base",
+      "weight": 1.35,
+      "variants": [
+        "fast reactor coolant",
+        "fast reactor coolant"
+      ],
+      "doc_count": 1,
+      "avg_score": 0.0026
+    },
+    {
+      "canonical": "international advanced reactor",
+      "category": "learned_from_base",
+      "weight": 1.35,
+      "variants": [
+        "international advanced reactor",
+        "international advanced reactor"
+      ],
+      "doc_count": 1,
+      "avg_score": 0.0027
+    },
+    {
+      "canonical": "GIF design concepts",
+      "category": "learned_from_base",
+      "weight": 1.35,
+      "variants": [
+        "GIF design concepts",
+        "gif design concepts"
+      ],
+      "doc_count": 1,
+      "avg_score": 0.0027
+    },
+    {
+      "canonical": "random pebble beds",
+      "category": "learned_from_base",
+      "weight": 1.35,
+      "variants": [
+        "random pebble beds",
+        "random pebble beds"
+      ],
+      "doc_count": 1,
+      "avg_score": 0.0027
+    },
+    {
+      "canonical": "SFR advanced fuels",
+      "category": "learned_from_base",
+      "weight": 1.7,
+      "variants": [
+        "SFR advanced fuels",
+        "sfr advanced fuels"
+      ],
+      "doc_count": 2,
+      "avg_score": 0.0028
+    },
+    {
+      "canonical": "SCWR System Research",
+      "category": "learned_from_base",
+      "weight": 1.35,
+      "variants": [
+        "SCWR System Research",
+        "scwr system research"
+      ],
+      "doc_count": 1,
+      "avg_score": 0.0028
+    },
+    {
+      "canonical": "MSR technology development",
+      "category": "learned_from_base",
+      "weight": 1.35,
+      "variants": [
+        "MSR technology development",
+        "msr technology development"
+      ],
+      "doc_count": 1,
+      "avg_score": 0.0028
+    },
+    {
+      "canonical": "GIF LFR reference",
+      "category": "learned_from_base",
+      "weight": 1.35,
+      "variants": [
+        "GIF LFR reference",
+        "gif lfr reference"
+      ],
+      "doc_count": 1,
+      "avg_score": 0.0028
+    },
+    {
+      "canonical": "LFR system design",
+      "category": "learned_from_base",
+      "weight": 1.35,
+      "variants": [
+        "LFR system design",
+        "lfr system design"
+      ],
+      "doc_count": 1,
+      "avg_score": 0.0028
+    },
+    {
+      "canonical": "Molten salt",
+      "category": "learned_from_base",
+      "weight": 2.75,
+      "variants": [
+        "Molten salt",
+        "molten salt"
+      ],
+      "doc_count": 5,
+      "avg_score": 0.003
+    },
+    {
+      "canonical": "GIF experts industry",
+      "category": "learned_from_base",
+      "weight": 1.35,
+      "variants": [
+        "GIF experts industry",
+        "gif experts industry"
+      ],
+      "doc_count": 1,
+      "avg_score": 0.0029
+    },
+    {
+      "canonical": "GIF VHTR gas",
+      "category": "learned_from_base",
+      "weight": 1.35,
+      "variants": [
+        "GIF VHTR gas",
+        "gif vhtr gas"
+      ],
+      "doc_count": 1,
+      "avg_score": 0.0029
+    },
+    {
+      "canonical": "Lead Fast Reactors",
+      "category": "learned_from_base",
+      "weight": 1.35,
+      "variants": [
+        "Lead Fast Reactors",
+        "lead fast reactors"
+      ],
+      "doc_count": 1,
+      "avg_score": 0.0029
+    },
+    {
+      "canonical": "GIF gas-cooled fast",
+      "category": "learned_from_base",
+      "weight": 1.35,
+      "variants": [
+        "GIF gas-cooled fast",
+        "gif gas-cooled fast"
+      ],
+      "doc_count": 1,
+      "avg_score": 0.0029
+    },
+    {
+      "canonical": "GIF safety",
+      "category": "learned_from_base",
+      "weight": 1.7,
+      "variants": [
+        "GIF safety",
+        "gif safety"
+      ],
+      "doc_count": 2,
+      "avg_score": 0.0029
+    },
+    {
+      "canonical": "GIF systems",
+      "category": "learned_from_base",
+      "weight": 2.05,
+      "variants": [
+        "GIF systems",
+        "gif systems"
+      ],
+      "doc_count": 3,
+      "avg_score": 0.0031
+    },
+    {
+      "canonical": "nuclear pebble bed",
+      "category": "learned_from_base",
+      "weight": 1.35,
+      "variants": [
+        "nuclear pebble bed",
+        "nuclear pebble bed"
+      ],
+      "doc_count": 1,
+      "avg_score": 0.003
+    },
+    {
+      "canonical": "Sodium Fast Reactor",
+      "category": "learned_from_base",
+      "weight": 2.4,
+      "variants": [
+        "Sodium Fast Reactor",
+        "sodium fast reactor"
+      ],
+      "doc_count": 4,
+      "avg_score": 0.0032
+    },
+    {
+      "canonical": "physics-based SAM gFHR",
+      "category": "learned_from_base",
+      "weight": 1.35,
+      "variants": [
+        "physics-based SAM gFHR",
+        "physics-based sam gfhr"
+      ],
+      "doc_count": 1,
+      "avg_score": 0.0031
+    },
+    {
+      "canonical": "gFHR surrogate predictions",
+      "category": "learned_from_base",
+      "weight": 1.35,
+      "variants": [
+        "gFHR surrogate predictions",
+        "gfhr surrogate predictions"
+      ],
+      "doc_count": 1,
+      "avg_score": 0.0031
+    },
+    {
+      "canonical": "gFHR Surrogate prediction",
+      "category": "learned_from_base",
+      "weight": 1.35,
+      "variants": [
+        "gFHR Surrogate prediction",
+        "gfhr surrogate prediction"
+      ],
+      "doc_count": 1,
+      "avg_score": 0.0031
+    },
+    {
+      "canonical": "sodium fast reactors",
+      "category": "learned_from_base",
+      "weight": 1.35,
+      "variants": [
+        "sodium fast reactors",
+        "sodium fast reactors"
+      ],
+      "doc_count": 1,
+      "avg_score": 0.0031
+    },
+    {
+      "canonical": "GIF forum",
+      "category": "learned_from_base",
+      "weight": 1.35,
+      "variants": [
+        "GIF forum",
+        "gif forum"
+      ],
+      "doc_count": 1,
+      "avg_score": 0.0032
+    },
+    {
+      "canonical": "SCWR materials",
+      "category": "learned_from_base",
+      "weight": 1.35,
+      "variants": [
+        "SCWR materials",
+        "scwr materials"
+      ],
+      "doc_count": 1,
+      "avg_score": 0.0032
+    },
+    {
+      "canonical": "LFR System Research",
+      "category": "learned_from_base",
+      "weight": 1.35,
+      "variants": [
+        "LFR System Research",
+        "lfr system research"
+      ],
+      "doc_count": 1,
+      "avg_score": 0.0033
+    },
+    {
+      "canonical": "pebble beds",
+      "category": "learned_from_base",
+      "weight": 1.35,
+      "variants": [
+        "pebble beds",
+        "pebble beds"
+      ],
+      "doc_count": 1,
+      "avg_score": 0.0035
+    },
+    {
+      "canonical": "prototype fast reactor",
+      "category": "learned_from_base",
+      "weight": 1.35,
+      "variants": [
+        "prototype fast reactor",
+        "prototype fast reactor"
+      ],
+      "doc_count": 1,
+      "avg_score": 0.0035
+    },
+    {
+      "canonical": "liquid metals",
+      "category": "learned_from_base",
+      "weight": 1.35,
+      "variants": [
+        "liquid metals",
+        "liquid metals"
+      ],
+      "doc_count": 1,
+      "avg_score": 0.0036
+    },
+    {
+      "canonical": "molten salt reactors",
+      "category": "learned_from_base",
+      "weight": 2.75,
+      "variants": [
+        "molten salt reactors",
+        "molten salt reactors"
+      ],
+      "doc_count": 5,
+      "avg_score": 0.0039
+    },
+    {
+      "canonical": "SCWR core materials",
+      "category": "learned_from_base",
+      "weight": 1.35,
+      "variants": [
+        "SCWR core materials",
+        "scwr core materials"
+      ],
+      "doc_count": 1,
+      "avg_score": 0.0037
+    },
+    {
+      "canonical": "fast reactor SVBR",
+      "category": "learned_from_base",
+      "weight": 1.35,
+      "variants": [
+        "fast reactor SVBR",
+        "fast reactor svbr"
+      ],
+      "doc_count": 1,
+      "avg_score": 0.0038
+    },
+    {
+      "canonical": "original gFHR Surrogate",
+      "category": "learned_from_base",
+      "weight": 1.35,
+      "variants": [
+        "original gFHR Surrogate",
+        "original gfhr surrogate"
+      ],
+      "doc_count": 1,
+      "avg_score": 0.004
+    },
+    {
+      "canonical": "layer Supercritical water",
+      "category": "learned_from_base",
+      "weight": 1.35,
+      "variants": [
+        "layer Supercritical water",
+        "layer supercritical water"
+      ],
+      "doc_count": 1,
+      "avg_score": 0.0041
+    },
+    {
+      "canonical": "SCWR fuel",
+      "category": "learned_from_base",
+      "weight": 1.35,
+      "variants": [
+        "SCWR fuel",
+        "scwr fuel"
+      ],
+      "doc_count": 1,
+      "avg_score": 0.0042
+    },
+    {
+      "canonical": "gFHR model system",
+      "category": "learned_from_base",
+      "weight": 1.35,
+      "variants": [
+        "gFHR model system",
+        "gfhr model system"
+      ],
+      "doc_count": 1,
+      "avg_score": 0.0043
+    },
+    {
+      "canonical": "supercritical water oxidation",
+      "category": "learned_from_base",
+      "weight": 1.35,
+      "variants": [
+        "supercritical water oxidation",
+        "supercritical water oxidation"
+      ],
+      "doc_count": 1,
+      "avg_score": 0.0043
+    },
+    {
+      "canonical": "KPH-size pebble bed",
+      "category": "learned_from_base",
+      "weight": 1.35,
+      "variants": [
+        "KPH-size pebble bed",
+        "kph-size pebble bed"
+      ],
+      "doc_count": 1,
+      "avg_score": 0.0043
+    },
+    {
+      "canonical": "SCWR material development",
+      "category": "learned_from_base",
+      "weight": 1.35,
+      "variants": [
+        "SCWR material development",
+        "scwr material development"
+      ],
+      "doc_count": 1,
+      "avg_score": 0.0044
+    },
+    {
+      "canonical": "random pebble",
+      "category": "learned_from_base",
+      "weight": 1.35,
+      "variants": [
+        "random pebble",
+        "random pebble"
+      ],
+      "doc_count": 1,
+      "avg_score": 0.0044
+    },
+    {
+      "canonical": "fuel molten salt",
+      "category": "learned_from_base",
+      "weight": 1.35,
+      "variants": [
+        "fuel molten salt",
+        "fuel molten salt"
+      ],
+      "doc_count": 1,
+      "avg_score": 0.0045
+    },
+    {
+      "canonical": "Canadian SCWR core",
+      "category": "learned_from_base",
+      "weight": 1.35,
+      "variants": [
+        "Canadian SCWR core",
+        "canadian scwr core"
+      ],
+      "doc_count": 1,
+      "avg_score": 0.0046
+    },
+    {
+      "canonical": "SCWR core",
+      "category": "learned_from_base",
+      "weight": 1.35,
+      "variants": [
+        "SCWR core",
+        "scwr core"
+      ],
+      "doc_count": 1,
+      "avg_score": 0.0046
+    },
+    {
+      "canonical": "fast reactors design",
+      "category": "learned_from_base",
+      "weight": 1.35,
+      "variants": [
+        "fast reactors design",
+        "fast reactors design"
+      ],
+      "doc_count": 1,
+      "avg_score": 0.0047
+    },
+    {
+      "canonical": "Molten Salt Fast",
+      "category": "learned_from_base",
+      "weight": 1.7,
+      "variants": [
+        "Molten Salt Fast",
+        "molten salt fast"
+      ],
+      "doc_count": 2,
+      "avg_score": 0.0049
+    },
+    {
+      "canonical": "Salt Reactor Technology",
+      "category": "learned_from_base",
+      "weight": 1.35,
+      "variants": [
+        "Salt Reactor Technology",
+        "salt reactor technology"
+      ],
+      "doc_count": 1,
+      "avg_score": 0.0048
+    },
+    {
+      "canonical": "lead-bismuth fast reactor",
+      "category": "learned_from_base",
+      "weight": 1.35,
+      "variants": [
+        "lead-bismuth fast reactor",
+        "lead-bismuth fast reactor"
+      ],
+      "doc_count": 1,
+      "avg_score": 0.0049
+    },
+    {
+      "canonical": "fast reactor concepts",
+      "category": "learned_from_base",
+      "weight": 1.35,
+      "variants": [
+        "fast reactor concepts",
+        "fast reactor concepts"
+      ],
+      "doc_count": 1,
+      "avg_score": 0.0049
+    },
+    {
+      "canonical": "fast reactor core",
+      "category": "learned_from_base",
+      "weight": 1.35,
+      "variants": [
+        "fast reactor core",
+        "fast reactor core"
+      ],
+      "doc_count": 1,
+      "avg_score": 0.0049
+    },
+    {
+      "canonical": "emerging supercritical water",
+      "category": "learned_from_base",
+      "weight": 1.35,
+      "variants": [
+        "emerging supercritical water",
+        "emerging supercritical water"
+      ],
+      "doc_count": 1,
+      "avg_score": 0.005
+    },
+    {
+      "canonical": "SCWR feedtrain material",
+      "category": "learned_from_base",
+      "weight": 1.35,
+      "variants": [
+        "SCWR feedtrain material",
+        "scwr feedtrain material"
+      ],
+      "doc_count": 1,
+      "avg_score": 0.005
+    },
+    {
+      "canonical": "MSR concept Salt",
+      "category": "learned_from_base",
+      "weight": 1.35,
+      "variants": [
+        "MSR concept Salt",
+        "msr concept salt"
+      ],
+      "doc_count": 1,
+      "avg_score": 0.0051
+    },
+    {
+      "canonical": "ALFRED mock-up",
+      "category": "learned_from_base",
+      "weight": 1.35,
+      "variants": [
+        "ALFRED mock-up",
+        "alfred mock-up"
+      ],
+      "doc_count": 1,
+      "avg_score": 0.0052
+    },
+    {
+      "canonical": "GIF system design",
+      "category": "learned_from_base",
+      "weight": 1.35,
+      "variants": [
+        "GIF system design",
+        "gif system design"
+      ],
+      "doc_count": 1,
+      "avg_score": 0.0052
+    },
+    {
+      "canonical": "Salt Fast Reactor",
+      "category": "learned_from_base",
+      "weight": 1.7,
+      "variants": [
+        "Salt Fast Reactor",
+        "salt fast reactor"
+      ],
+      "doc_count": 2,
+      "avg_score": 0.0054
+    },
+    {
+      "canonical": "Canadian supercritical water-cooled",
+      "category": "learned_from_base",
+      "weight": 1.35,
+      "variants": [
+        "Canadian supercritical water-cooled",
+        "canadian supercritical water-cooled"
+      ],
+      "doc_count": 1,
+      "avg_score": 0.0053
+    },
+    {
+      "canonical": "fast reactors technology",
+      "category": "learned_from_base",
+      "weight": 1.35,
+      "variants": [
+        "fast reactors technology",
+        "fast reactors technology"
+      ],
+      "doc_count": 1,
+      "avg_score": 0.0053
+    },
+    {
+      "canonical": "SCWR fuel cladding",
+      "category": "learned_from_base",
+      "weight": 1.35,
+      "variants": [
+        "SCWR fuel cladding",
+        "scwr fuel cladding"
+      ],
+      "doc_count": 1,
+      "avg_score": 0.0054
+    },
+    {
+      "canonical": "salt reactor concepts",
+      "category": "learned_from_base",
+      "weight": 1.35,
+      "variants": [
+        "salt reactor concepts",
+        "salt reactor concepts"
+      ],
+      "doc_count": 1,
+      "avg_score": 0.0054
+    },
+    {
+      "canonical": "salt reactor concept",
+      "category": "learned_from_base",
+      "weight": 1.35,
+      "variants": [
+        "salt reactor concept",
+        "salt reactor concept"
+      ],
+      "doc_count": 1,
+      "avg_score": 0.0054
+    },
+    {
+      "canonical": "advanced reactor systems",
+      "category": "learned_from_base",
+      "weight": 2.05,
+      "variants": [
+        "advanced reactor systems",
+        "advanced reactor systems"
+      ],
+      "doc_count": 3,
+      "avg_score": 0.0058
+    },
+    {
+      "canonical": "molten salt technology",
+      "category": "learned_from_base",
+      "weight": 1.35,
+      "variants": [
+        "molten salt technology",
+        "molten salt technology"
+      ],
+      "doc_count": 1,
+      "avg_score": 0.0055
+    },
+    {
+      "canonical": "Kairos Power",
+      "category": "learned_from_base",
+      "weight": 3.0,
+      "variants": [
+        "Kairos Power",
+        "kairos power"
+      ],
+      "doc_count": 6,
+      "avg_score": 0.0064
+    },
+    {
+      "canonical": "ALFRED mock-up displacement",
+      "category": "learned_from_base",
+      "weight": 1.35,
+      "variants": [
+        "ALFRED mock-up displacement",
+        "alfred mock-up displacement"
+      ],
+      "doc_count": 1,
+      "avg_score": 0.0058
+    },
+    {
+      "canonical": "supercritical water cooled",
+      "category": "learned_from_base",
+      "weight": 1.35,
+      "variants": [
+        "supercritical water cooled",
+        "supercritical water cooled"
+      ],
+      "doc_count": 1,
+      "avg_score": 0.0059
+    },
+    {
+      "canonical": "fast reactor fuel",
+      "category": "learned_from_base",
+      "weight": 2.05,
+      "variants": [
+        "fast reactor fuel",
+        "fast reactor fuel"
+      ],
+      "doc_count": 3,
+      "avg_score": 0.0064
+    },
+    {
+      "canonical": "MSR concept",
+      "category": "learned_from_base",
+      "weight": 1.35,
+      "variants": [
+        "MSR concept",
+        "msr concept"
+      ],
+      "doc_count": 1,
+      "avg_score": 0.0063
+    },
+    {
+      "canonical": "Fast Reactor Development",
+      "category": "learned_from_base",
+      "weight": 2.05,
+      "variants": [
+        "Fast Reactor Development",
+        "fast reactor development"
+      ],
+      "doc_count": 3,
+      "avg_score": 0.0074
+    },
+    {
+      "canonical": "Integral Fast Reactor",
+      "category": "learned_from_base",
+      "weight": 1.35,
+      "variants": [
+        "Integral Fast Reactor",
+        "integral fast reactor"
+      ],
+      "doc_count": 1,
+      "avg_score": 0.0069
+    },
+    {
+      "canonical": "Critical’ TerraPower Natrium",
+      "category": "learned_from_base",
+      "weight": 1.35,
+      "variants": [
+        "Critical’ TerraPower Natrium",
+        "critical terrapower natrium"
+      ],
+      "doc_count": 1,
+      "avg_score": 0.0072
+    },
+    {
+      "canonical": "Pebble bed heat",
+      "category": "learned_from_base",
+      "weight": 1.35,
+      "variants": [
+        "Pebble bed heat",
+        "pebble bed heat"
+      ],
+      "doc_count": 1,
+      "avg_score": 0.0073
+    },
+    {
+      "canonical": "pebble surface temperature",
+      "category": "learned_from_base",
+      "weight": 1.35,
+      "variants": [
+        "pebble surface temperature",
+        "pebble surface temperature"
+      ],
+      "doc_count": 1,
+      "avg_score": 0.0073
+    },
+    {
+      "canonical": "pebble bed reactor",
+      "category": "learned_from_base",
+      "weight": 1.35,
+      "variants": [
+        "pebble bed reactor",
+        "pebble bed reactor"
+      ],
+      "doc_count": 1,
+      "avg_score": 0.0075
+    },
+    {
+      "canonical": "reactor pebble bed",
+      "category": "learned_from_base",
+      "weight": 1.35,
+      "variants": [
+        "reactor pebble bed",
+        "reactor pebble bed"
+      ],
+      "doc_count": 1,
+      "avg_score": 0.0075
+    },
+    {
+      "canonical": "fast reactor",
+      "category": "learned_from_base",
+      "weight": 3.0,
+      "variants": [
+        "fast reactor",
+        "fast reactor"
+      ],
+      "doc_count": 13,
+      "avg_score": 0.0138
+    },
+    {
+      "canonical": "cooled fast reactor",
+      "category": "learned_from_base",
+      "weight": 2.05,
+      "variants": [
+        "cooled fast reactor",
+        "cooled fast reactor"
+      ],
+      "doc_count": 3,
+      "avg_score": 0.0085
+    },
+    {
+      "canonical": "Generation IV International",
+      "category": "learned_from_base",
+      "weight": 1.35,
+      "variants": [
+        "Generation IV International",
+        "generation iv international"
+      ],
+      "doc_count": 1,
+      "avg_score": 0.008
+    },
+    {
+      "canonical": "Hermes-size pebble bed",
+      "category": "learned_from_base",
+      "weight": 1.35,
+      "variants": [
+        "Hermes-size pebble bed",
+        "hermes-size pebble bed"
+      ],
+      "doc_count": 1,
+      "avg_score": 0.008
+    },
+    {
+      "canonical": "Lead-Cooled Reactor Concept",
+      "category": "learned_from_base",
+      "weight": 1.35,
+      "variants": [
+        "Lead-Cooled Reactor Concept",
+        "lead-cooled reactor concept"
+      ],
+      "doc_count": 1,
+      "avg_score": 0.008
+    },
+    {
+      "canonical": "fast reactor programme",
+      "category": "learned_from_base",
+      "weight": 1.7,
+      "variants": [
+        "fast reactor programme",
+        "fast reactor programme"
+      ],
+      "doc_count": 2,
+      "avg_score": 0.0083
+    },
+    {
+      "canonical": "pebble bed flow",
+      "category": "learned_from_base",
+      "weight": 1.35,
+      "variants": [
+        "pebble bed flow",
+        "pebble bed flow"
+      ],
+      "doc_count": 1,
+      "avg_score": 0.0081
+    },
+    {
+      "canonical": "pebble bed flows",
+      "category": "learned_from_base",
+      "weight": 1.35,
+      "variants": [
+        "pebble bed flows",
+        "pebble bed flows"
+      ],
+      "doc_count": 1,
+      "avg_score": 0.0081
+    },
+    {
+      "canonical": "nuclear reactor pebble",
+      "category": "learned_from_base",
+      "weight": 1.35,
+      "variants": [
+        "nuclear reactor pebble",
+        "nuclear reactor pebble"
+      ],
+      "doc_count": 1,
+      "avg_score": 0.0082
+    },
+    {
+      "canonical": "Generation IV systems",
+      "category": "learned_from_base",
+      "weight": 1.35,
+      "variants": [
+        "Generation IV systems",
+        "generation iv systems"
+      ],
+      "doc_count": 1,
+      "avg_score": 0.0083
+    },
+    {
+      "canonical": "Pebble Bed Test",
+      "category": "learned_from_base",
+      "weight": 1.35,
+      "variants": [
+        "Pebble Bed Test",
+        "pebble bed test"
+      ],
+      "doc_count": 1,
+      "avg_score": 0.0084
+    },
+    {
+      "canonical": "GIF members",
+      "category": "learned_from_base",
+      "weight": 2.4,
+      "variants": [
+        "GIF members",
+        "gif members"
+      ],
+      "doc_count": 4,
+      "avg_score": 0.0097
+    },
+    {
+      "canonical": "Международного форума поколения",
+      "category": "learned_from_base",
+      "weight": 1.35,
+      "variants": [
+        "Международного форума поколения",
+        "международного форума поколения"
+      ],
+      "doc_count": 1,
+      "avg_score": 0.0089
+    },
+    {
+      "canonical": "TRISO fuel",
+      "category": "learned_from_base",
+      "weight": 2.4,
+      "variants": [
+        "TRISO fuel",
+        "triso fuel"
+      ],
+      "doc_count": 4,
+      "avg_score": 0.0106
+    },
+    {
+      "canonical": "packed pebble bed",
+      "category": "learned_from_base",
+      "weight": 1.35,
+      "variants": [
+        "packed pebble bed",
+        "packed pebble bed"
+      ],
+      "doc_count": 1,
+      "avg_score": 0.0093
+    },
+    {
+      "canonical": "GIF-IAEA Interface Meeting",
+      "category": "learned_from_base",
+      "weight": 1.35,
+      "variants": [
+        "GIF-IAEA Interface Meeting",
+        "gif-iaea interface meeting"
+      ],
+      "doc_count": 1,
+      "avg_score": 0.0094
+    },
+    {
+      "canonical": "Th-U Molten Salt",
+      "category": "learned_from_base",
+      "weight": 1.35,
+      "variants": [
+        "Th-U Molten Salt",
+        "th-u molten salt"
+      ],
+      "doc_count": 1,
+      "avg_score": 0.0095
+    },
+    {
+      "canonical": "Molten Salt Forum",
+      "category": "learned_from_base",
+      "weight": 1.35,
+      "variants": [
+        "Molten Salt Forum",
+        "molten salt forum"
+      ],
+      "doc_count": 1,
+      "avg_score": 0.0095
+    },
+    {
+      "canonical": "GIF reactor",
+      "category": "learned_from_base",
+      "weight": 1.35,
+      "variants": [
+        "GIF reactor",
+        "gif reactor"
+      ],
+      "doc_count": 1,
+      "avg_score": 0.0096
+    },
+    {
+      "canonical": "Salt Reactor Experiment",
+      "category": "learned_from_base",
+      "weight": 1.35,
+      "variants": [
+        "Salt Reactor Experiment",
+        "salt reactor experiment"
+      ],
+      "doc_count": 1,
+      "avg_score": 0.0097
+    },
+    {
+      "canonical": "molten salt Okon",
+      "category": "learned_from_base",
+      "weight": 1.35,
+      "variants": [
+        "molten salt Okon",
+        "molten salt okon"
+      ],
+      "doc_count": 1,
+      "avg_score": 0.0099
+    },
+    {
+      "canonical": "Molten Salt requirements",
+      "category": "learned_from_base",
+      "weight": 1.35,
+      "variants": [
+        "Molten Salt requirements",
+        "molten salt requirements"
+      ],
+      "doc_count": 1,
+      "avg_score": 0.0101
+    },
+    {
+      "canonical": "Molten Salt Actinide",
+      "category": "learned_from_base",
+      "weight": 1.35,
+      "variants": [
+        "Molten Salt Actinide",
+        "molten salt actinide"
+      ],
+      "doc_count": 1,
+      "avg_score": 0.0101
+    },
+    {
+      "canonical": "Kairos Power Hermes",
+      "category": "learned_from_base",
+      "weight": 1.7,
+      "variants": [
+        "Kairos Power Hermes",
+        "kairos power hermes"
+      ],
+      "doc_count": 2,
+      "avg_score": 0.0107
+    },
+    {
+      "canonical": "ALFRED design",
+      "category": "learned_from_base",
+      "weight": 1.35,
+      "variants": [
+        "ALFRED design",
+        "alfred design"
+      ],
+      "doc_count": 1,
+      "avg_score": 0.0104
+    },
+    {
+      "canonical": "GIF member System",
+      "category": "learned_from_base",
+      "weight": 1.35,
+      "variants": [
+        "GIF member System",
+        "gif member system"
+      ],
+      "doc_count": 1,
+      "avg_score": 0.0105
+    },
+    {
+      "canonical": "Kairos",
+      "category": "learned_from_base",
+      "weight": 2.4,
+      "variants": [
+        "Kairos",
+        "kairos"
+      ],
+      "doc_count": 4,
+      "avg_score": 0.0132
+    },
+    {
+      "canonical": "largest pebble bed",
+      "category": "learned_from_base",
+      "weight": 1.35,
+      "variants": [
+        "largest pebble bed",
+        "largest pebble bed"
+      ],
+      "doc_count": 1,
+      "avg_score": 0.0112
+    },
+    {
+      "canonical": "pebble surface",
+      "category": "learned_from_base",
+      "weight": 1.35,
+      "variants": [
+        "pebble surface",
+        "pebble surface"
+      ],
+      "doc_count": 1,
+      "avg_score": 0.0113
+    },
+    {
+      "canonical": "fast reactors",
+      "category": "learned_from_base",
+      "weight": 3.0,
+      "variants": [
+        "fast reactors",
+        "fast reactors"
+      ],
+      "doc_count": 6,
+      "avg_score": 0.0161
+    },
+    {
+      "canonical": "Salt Reactor Simulations",
+      "category": "learned_from_base",
+      "weight": 1.35,
+      "variants": [
+        "Salt Reactor Simulations",
+        "salt reactor simulations"
+      ],
+      "doc_count": 1,
+      "avg_score": 0.0123
+    },
+    {
+      "canonical": "MSR concept system",
+      "category": "learned_from_base",
+      "weight": 1.35,
+      "variants": [
+        "MSR concept system",
+        "msr concept system"
+      ],
+      "doc_count": 1,
+      "avg_score": 0.0123
+    },
+    {
+      "canonical": "TerraPower получила разрешение",
+      "category": "learned_from_base",
+      "weight": 1.35,
+      "variants": [
+        "TerraPower получила разрешение",
+        "terrapower получила разрешение"
+      ],
+      "doc_count": 1,
+      "avg_score": 0.0125
+    },
+    {
+      "canonical": "Thorium Molten Salt",
+      "category": "learned_from_base",
+      "weight": 1.35,
+      "variants": [
+        "Thorium Molten Salt",
+        "thorium molten salt"
+      ],
+      "doc_count": 1,
+      "avg_score": 0.013
+    },
+    {
+      "canonical": "pebble bed simulated",
+      "category": "learned_from_base",
+      "weight": 1.35,
+      "variants": [
+        "pebble bed simulated",
+        "pebble bed simulated"
+      ],
+      "doc_count": 1,
+      "avg_score": 0.013
+    },
+    {
+      "canonical": "diﬀerent Molten Salt",
+      "category": "learned_from_base",
+      "weight": 1.35,
+      "variants": [
+        "diﬀerent Molten Salt",
+        "di erent molten salt"
+      ],
+      "doc_count": 1,
+      "avg_score": 0.0132
+    },
+    {
+      "canonical": "IAEA Fast Reactor",
+      "category": "learned_from_base",
+      "weight": 1.35,
+      "variants": [
+        "IAEA Fast Reactor",
+        "iaea fast reactor"
+      ],
+      "doc_count": 1,
+      "avg_score": 0.0133
+    },
+    {
+      "canonical": "Fast Reactor Group",
+      "category": "learned_from_base",
+      "weight": 1.35,
+      "variants": [
+        "Fast Reactor Group",
+        "fast reactor group"
+      ],
+      "doc_count": 1,
+      "avg_score": 0.0134
+    },
+    {
+      "canonical": "molten Salt Neutron",
+      "category": "learned_from_base",
+      "weight": 1.35,
+      "variants": [
+        "molten Salt Neutron",
+        "molten salt neutron"
+      ],
+      "doc_count": 1,
+      "avg_score": 0.0137
+    },
+    {
+      "canonical": "salt reactor based",
+      "category": "learned_from_base",
+      "weight": 1.35,
+      "variants": [
+        "salt reactor based",
+        "salt reactor based"
+      ],
+      "doc_count": 1,
+      "avg_score": 0.0141
+    },
+    {
+      "canonical": "Molten Salt Breeder",
+      "category": "learned_from_base",
+      "weight": 1.35,
+      "variants": [
+        "Molten Salt Breeder",
+        "molten salt breeder"
+      ],
+      "doc_count": 1,
+      "avg_score": 0.0141
+    }
+  ]
+}

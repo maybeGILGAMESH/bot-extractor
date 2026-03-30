@@ -1,0 +1,96 @@
+{
+  "name": "Семенной словарь по реакторам IV поколения",
+  "topic": "generation_iv_reactors",
+  "entries": [
+    {
+      "canonical": "Generation IV",
+      "category": "core_theme",
+      "weight": 2.0,
+      "variants": ["generation iv", "gen iv", "fourth generation reactor", "reactor generation iv", "reactors of the fourth generation", "реактор iv поколения", "реакторы iv поколения", "четвертое поколение реакторов", "четвертого поколения"]
+    },
+    {
+      "canonical": "GIF",
+      "category": "organizations",
+      "weight": 1.4,
+      "variants": ["generation iv international forum", "gif portal", "generation iv forum", "международный форум generation iv", "международный форум gif"]
+    },
+    {
+      "canonical": "SFR",
+      "category": "reactor_family",
+      "weight": 1.8,
+      "variants": ["sodium-cooled fast reactor", "sodium cooled fast reactor", "sfr", "натриевый быстрый реактор", "реактор с натриевым теплоносителем", "быстрый натриевый реактор"]
+    },
+    {
+      "canonical": "LFR",
+      "category": "reactor_family",
+      "weight": 1.8,
+      "variants": ["lead-cooled fast reactor", "lead cooled fast reactor", "lfr", "свинцово-охлаждаемый быстрый реактор", "свинцовый быстрый реактор", "свинцовый теплоноситель"]
+    },
+    {
+      "canonical": "MSR",
+      "category": "reactor_family",
+      "weight": 1.8,
+      "variants": ["molten salt reactor", "molten salt reactors", "msr", "reactor on molten salts", "реактор на расплавах солей", "реактор на расплавленных солях", "реактор на солевом расплаве"]
+    },
+    {
+      "canonical": "VHTR",
+      "category": "reactor_family",
+      "weight": 1.7,
+      "variants": ["very high temperature reactor", "vhtr", "very-high-temperature reactor", "высокотемпературный реактор", "реактор очень высокой температуры"]
+    },
+    {
+      "canonical": "GFR",
+      "category": "reactor_family",
+      "weight": 1.6,
+      "variants": ["gas-cooled fast reactor", "gas cooled fast reactor", "gfr", "газоохлаждаемый быстрый реактор"]
+    },
+    {
+      "canonical": "SCWR",
+      "category": "reactor_family",
+      "weight": 1.6,
+      "variants": ["supercritical water reactor", "super critical water reactor", "scwr", "реактор со сверхкритической водой", "реактор на сверхкритической воде"]
+    },
+    {
+      "canonical": "fast reactor",
+      "category": "physics_and_spectrum",
+      "weight": 1.5,
+      "variants": ["fast reactor", "fast reactors", "fast neutron reactor", "fast neutron spectrum", "быстрый реактор", "реактор на быстрых нейтронах", "быстрый спектр нейтронов"]
+    },
+    {
+      "canonical": "closed fuel cycle",
+      "category": "fuel_cycle",
+      "weight": 1.7,
+      "variants": ["closed fuel cycle", "closing the fuel cycle", "closed nuclear fuel cycle", "замкнутый топливный цикл", "замыкание топливного цикла"]
+    },
+    {
+      "canonical": "minor actinides",
+      "category": "fuel_cycle",
+      "weight": 1.4,
+      "variants": ["minor actinides", "burn minor actinides", "минорные актиниды", "дожигание минорных актинидов"]
+    },
+    {
+      "canonical": "high temperature process heat",
+      "category": "applications",
+      "weight": 1.3,
+      "variants": ["process heat", "high-temperature process heat", "industrial heat", "водородное производство", "производство водорода", "высокотемпературное тепло", "технологическое тепло"]
+    },
+    {
+      "canonical": "passive safety",
+      "category": "safety",
+      "weight": 1.2,
+      "variants": ["passive safety", "inherent safety", "natural circulation", "пассивная безопасность", "внутренняя безопасность", "естественная циркуляция"]
+    },
+    {
+      "canonical": "sustainability economics safety",
+      "category": "goals",
+      "weight": 1.2,
+      "variants": ["safety and reliability", "proliferation resistance", "economic competitiveness", "generation iv goals", "generation iv objectives", "безопасность и надежность", "экономическая конкурентоспособность", "цели generation iv", "нераспространение"]
+    },
+    {
+      "canonical": "ARIS",
+      "category": "organizations",
+      "weight": 1.0,
+      "variants": ["advanced reactors information system", "aris iaea", "информационная система aris", "база aris"]
+    }
+  ]
+}

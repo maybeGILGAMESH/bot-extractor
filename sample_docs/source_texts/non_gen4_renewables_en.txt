@@ -1,0 +1,8 @@
+Energy market memo on renewables and storage
+
+This text discusses solar generation, wind farms, grid balancing, storage assets,
+curtailment and transmission expansion. The dominant vocabulary is about renewable
+energy integration and battery economics.
+
+The document focuses on electricity markets, flexible capacity and storage
+investment rather than on nuclear engineering terminology.

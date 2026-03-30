@@ -1,0 +1,110 @@
+<svg width="1280" height="880" viewBox="0 0 1280 880" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1280" y2="880" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#071019"/>
+      <stop offset="0.52" stop-color="#0E2030"/>
+      <stop offset="1" stop-color="#183349"/>
+    </linearGradient>
+    <linearGradient id="accentA" x1="90" y1="150" x2="1180" y2="150" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F2B84B"/>
+      <stop offset="1" stop-color="#F07C4A"/>
+    </linearGradient>
+    <linearGradient id="accentB" x1="140" y1="680" x2="1140" y2="680" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#93D6B5"/>
+      <stop offset="1" stop-color="#F2B84B"/>
+    </linearGradient>
+    <filter id="shadow2" x="-60" y="-60" width="1400" height="1000" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feDropShadow dx="0" dy="18" stdDeviation="24" flood-color="#000000" flood-opacity="0.28"/>
+    </filter>
+  </defs>
+
+  <rect width="1280" height="880" rx="28" fill="url(#bg2)"/>
+
+  <g opacity="0.22">
+    <circle cx="142" cy="118" r="68" fill="#F2B84B">
+      <animate attributeName="cy" values="118;138;118" dur="8s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="1142" cy="122" r="74" fill="#93D6B5">
+      <animate attributeName="cy" values="122;96;122" dur="9s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="1100" cy="766" r="62" fill="#F07C4A">
+      <animate attributeName="cx" values="1100;1040;1100" dur="7s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <text x="70" y="88" fill="#93D6B5" font-family="Verdana, Geneva, sans-serif" font-size="24" font-weight="700" letter-spacing="3">VISUAL SNAPSHOT</text>
+  <text x="68" y="150" fill="#F7F1E6" font-family="Verdana, Geneva, sans-serif" font-size="52" font-weight="800">Как проект выглядит на одном экране</text>
+  <text x="70" y="196" fill="#C9D3DB" font-family="Verdana, Geneva, sans-serif" font-size="24">Корпус • Словарь • Точность • Два независимых решения • Интерфейс редактирования</text>
+
+  <g filter="url(#shadow2)">
+    <rect x="64" y="248" width="268" height="146" rx="24" fill="#102332" stroke="#29465D"/>
+    <rect x="352" y="248" width="268" height="146" rx="24" fill="#102332" stroke="#29465D"/>
+    <rect x="640" y="248" width="268" height="146" rx="24" fill="#102332" stroke="#29465D"/>
+    <rect x="928" y="248" width="288" height="146" rx="24" fill="#102332" stroke="#29465D"/>
+
+    <text x="92" y="292" fill="#F7F1E6" font-family="Verdana, Geneva, sans-serif" font-size="22" font-weight="700">Документов в base</text>
+    <text x="92" y="360" fill="#F2B84B" font-family="Verdana, Geneva, sans-serif" font-size="60" font-weight="800">27</text>
+    <text x="92" y="390" fill="#B8C4CF" font-family="Verdana, Geneva, sans-serif" font-size="18">Эталонный тематический корпус</text>
+
+    <text x="380" y="292" fill="#F7F1E6" font-family="Verdana, Geneva, sans-serif" font-size="22" font-weight="700">Терминов в словаре</text>
+    <text x="380" y="360" fill="#93D6B5" font-family="Verdana, Geneva, sans-serif" font-size="60" font-weight="800">300</text>
+    <text x="380" y="390" fill="#B8C4CF" font-family="Verdana, Geneva, sans-serif" font-size="18">Runtime-словарь Generation IV</text>
+
+    <text x="668" y="292" fill="#F7F1E6" font-family="Verdana, Geneva, sans-serif" font-size="22" font-weight="700">Точность на test</text>
+    <text x="668" y="360" fill="#FFD896" font-family="Verdana, Geneva, sans-serif" font-size="60" font-weight="800">93.33%</text>
+    <text x="668" y="390" fill="#B8C4CF" font-family="Verdana, Geneva, sans-serif" font-size="18">Проверка на 3 поколения / 4 поколения / другое</text>
+
+    <text x="956" y="292" fill="#F7F1E6" font-family="Verdana, Geneva, sans-serif" font-size="22" font-weight="700">Решения</text>
+    <text x="956" y="336" fill="#F2B84B" font-family="Verdana, Geneva, sans-serif" font-size="26" font-weight="700">YAKE + словарь</text>
+    <text x="956" y="370" fill="#93D6B5" font-family="Verdana, Geneva, sans-serif" font-size="26" font-weight="700">Модель похожести</text>
+    <text x="956" y="394" fill="#B8C4CF" font-family="Verdana, Geneva, sans-serif" font-size="18">Два независимых контура анализа</text>
+  </g>
+
+  <path d="M88 456H1192" stroke="url(#accentA)" stroke-width="3" stroke-linecap="round" opacity="0.75"/>
+
+  <rect x="72" y="500" width="1136" height="286" rx="28" fill="#0D1D2B" stroke="#29465D"/>
+
+  <text x="100" y="546" fill="#F7F1E6" font-family="Verdana, Geneva, sans-serif" font-size="28" font-weight="800">Визуальный pipeline</text>
+
+  <g>
+    <rect x="96" y="584" width="190" height="120" rx="22" fill="#13283D" stroke="#35526B"/>
+    <text x="126" y="624" fill="#93D6B5" font-family="Verdana, Geneva, sans-serif" font-size="20" font-weight="700">1. Документ</text>
+    <text x="126" y="660" fill="#F7F1E6" font-family="Verdana, Geneva, sans-serif" font-size="18">PDF / DOC / DOCX</text>
+    <text x="126" y="686" fill="#B8C4CF" font-family="Verdana, Geneva, sans-serif" font-size="15">Загрузка через Streamlit</text>
+  </g>
+
+  <g>
+    <rect x="328" y="584" width="208" height="120" rx="22" fill="#13283D" stroke="#35526B"/>
+    <text x="356" y="624" fill="#F2B84B" font-family="Verdana, Geneva, sans-serif" font-size="20" font-weight="700">2. Извлечение текста</text>
+    <text x="356" y="660" fill="#F7F1E6" font-family="Verdana, Geneva, sans-serif" font-size="18">PyMuPDF + LibreOffice</text>
+    <text x="356" y="686" fill="#B8C4CF" font-family="Verdana, Geneva, sans-serif" font-size="15">Очистка, страницы, метрики</text>
+  </g>
+
+  <g>
+    <rect x="578" y="560" width="262" height="74" rx="20" fill="#193142" stroke="#44647A"/>
+    <text x="608" y="605" fill="#F7F1E6" font-family="Verdana, Geneva, sans-serif" font-size="22" font-weight="700">3A. YAKE + словарь</text>
+    <rect x="578" y="648" width="262" height="74" rx="20" fill="#193142" stroke="#44647A"/>
+    <text x="608" y="693" fill="#F7F1E6" font-family="Verdana, Geneva, sans-serif" font-size="22" font-weight="700">3B. Наша модель</text>
+  </g>
+
+  <g>
+    <rect x="886" y="584" width="290" height="120" rx="22" fill="#13283D" stroke="#35526B"/>
+    <text x="916" y="624" fill="#FFD896" font-family="Verdana, Geneva, sans-serif" font-size="20" font-weight="700">4. Интерфейс результата</text>
+    <text x="916" y="660" fill="#F7F1E6" font-family="Verdana, Geneva, sans-serif" font-size="18">Плашки • JSON • метрики</text>
+    <text x="916" y="686" fill="#B8C4CF" font-family="Verdana, Geneva, sans-serif" font-size="15">Списки ключевых фраз и редактор словарей</text>
+  </g>
+
+  <path d="M286 644H326" stroke="#F2B84B" stroke-width="4" stroke-linecap="round"/>
+  <path d="M536 620H576" stroke="#F2B84B" stroke-width="4" stroke-linecap="round"/>
+  <path d="M536 678H576" stroke="#93D6B5" stroke-width="4" stroke-linecap="round"/>
+  <path d="M840 598H882" stroke="#F2B84B" stroke-width="4" stroke-linecap="round"/>
+  <path d="M840 684H882" stroke="#93D6B5" stroke-width="4" stroke-linecap="round"/>
+
+  <g opacity="0.82">
+    <rect x="932" y="746" width="216" height="16" rx="8" fill="#29465D"/>
+    <rect x="932" y="746" width="187" height="16" rx="8" fill="url(#accentB)">
+      <animate attributeName="width" values="170;194;187;170" dur="6s" repeatCount="indefinite"/>
+    </rect>
+    <text x="934" y="736" fill="#C9D3DB" font-family="Verdana, Geneva, sans-serif" font-size="16">Текущий визуальный индикатор точности</text>
+  </g>
+</svg>

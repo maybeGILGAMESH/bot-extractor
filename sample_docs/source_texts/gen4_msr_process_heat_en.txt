@@ -1,0 +1,10 @@
+Generation IV note on molten salt reactors
+
+Molten salt reactor concepts are often discussed in the context of Generation IV
+systems. Analysts usually encounter the terms molten salt reactor, process heat,
+high-temperature applications, low-pressure operation, materials compatibility
+and fuel cycle flexibility.
+
+For thematic classification this kind of document should be associated with
+advanced reactors, Generation IV, thermal efficiency and industrial heat rather
+than with conventional pressurized water reactor maintenance.

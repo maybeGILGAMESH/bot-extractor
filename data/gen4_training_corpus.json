@@ -1,0 +1,84 @@
+{
+  "documents": [
+    {
+      "id": "gen4_ru_01",
+      "label": "gen4",
+      "text": "Реакторы IV поколения рассматриваются в рамках Generation IV International Forum как семейство перспективных ядерных систем. К ключевым направлениям относятся натриевый быстрый реактор, свинцово-охлаждаемый быстрый реактор, реактор на расплавах солей и высокотемпературный газовый реактор. Для этой тематики характерны замкнутый топливный цикл, устойчивость, безопасность и снижение образования долгоживущих отходов."
+    },
+    {
+      "id": "gen4_ru_02",
+      "label": "gen4",
+      "text": "Свинцовый быстрый реактор и натриевый быстрый реактор относятся к системам с быстрым спектром нейтронов. Такие установки часто обсуждаются в контексте дожигания минорных актинидов, замыкания топливного цикла и повышения эффективности использования урана."
+    },
+    {
+      "id": "gen4_ru_03",
+      "label": "gen4",
+      "text": "Реактор на расплавах солей интересен высокой температурой теплоносителя, низким рабочим давлением и возможностью выработки технологического тепла. В публикациях по MSR встречаются слова molten salt reactor, process heat, passive safety, fuel cycle и materials compatibility."
+    },
+    {
+      "id": "gen4_ru_04",
+      "label": "gen4",
+      "text": "Very High Temperature Reactor и Gas-cooled Fast Reactor относятся к линии газоохлаждаемых установок Generation IV. Для них характерны высокотемпературные материалы, водородное производство и использование тепла в промышленности."
+    },
+    {
+      "id": "gen4_en_01",
+      "label": "gen4",
+      "text": "Generation IV systems are evaluated against sustainability, economics, safety and reliability, and proliferation resistance. The main reactor families include SFR, LFR, MSR, VHTR, GFR and SCWR, with long-term deployment based on coordinated R&D."
+    },
+    {
+      "id": "gen4_en_02",
+      "label": "gen4",
+      "text": "Advanced fast reactors operate with a fast neutron spectrum and are often linked with closed fuel cycle strategies. Documents on this topic frequently mention sodium-cooled fast reactor, lead-cooled fast reactor, minor actinides and fuel recycling."
+    },
+    {
+      "id": "gen4_en_03",
+      "label": "gen4",
+      "text": "The IAEA ARIS database and GIF publications describe advanced reactor concepts such as molten salt reactors and supercritical water reactors. Analysts studying fourth generation nuclear systems typically track reactor family names, fuel cycle concepts and process heat applications."
+    },
+    {
+      "id": "gen4_en_04",
+      "label": "gen4",
+      "text": "A document focused on fourth generation reactors usually contains terms like Gen IV, advanced reactor, passive safety, high temperature process heat, molten salt, sodium coolant, lead coolant and fast reactor physics."
+    },
+    {
+      "id": "other_ru_01",
+      "label": "other",
+      "text": "На АЭС с реактором ВВЭР проведен плановый ремонт турбогенератора и парогенераторов. В отчете рассматриваются сроки перезагрузки топлива, работа систем контроля и обычные мероприятия по эксплуатации энергоблока."
+    },
+    {
+      "id": "other_ru_02",
+      "label": "other",
+      "text": "Статья посвящена солнечной генерации, ветропаркам и накопителям энергии. Основные термины текста: фотоэлектрические модули, батарейное хранение, сетевой баланс, инверторы и распределенная генерация."
+    },
+    {
+      "id": "other_ru_03",
+      "label": "other",
+      "text": "Новость описывает малый модульный реактор легководного типа и процедуру лицензирования промышленной площадки. Упоминаются мощность блока, бетонные работы, турбинное оборудование и электросетевая инфраструктура."
+    },
+    {
+      "id": "other_ru_04",
+      "label": "other",
+      "text": "Материал посвящен термоядерному синтезу, магнитному удержанию плазмы и токам в токамаке. Обсуждаются катушки, дивертор, плазменный шнур и сценарии нагрева без связи с реакторами IV поколения."
+    },
+    {
+      "id": "other_en_01",
+      "label": "other",
+      "text": "The report examines a pressurized water reactor outage, including steam generator inspection, turbine maintenance, pump diagnostics and fuel reload scheduling. The vocabulary is dominated by outage planning, repair windows, work packages and equipment reliability."
+    },
+    {
+      "id": "other_en_02",
+      "label": "other",
+      "text": "This note reviews offshore wind capacity factors, solar curtailment, battery economics and transmission expansion. The vocabulary is centered on renewables, market balancing and storage projects."
+    },
+    {
+      "id": "other_en_03",
+      "label": "other",
+      "text": "A research reactor used for isotope production is discussed in terms of neutron beams, irradiation channels, medical isotopes and laboratory schedules. The text is focused on laboratory infrastructure, targets and irradiation services."
+    },
+    {
+      "id": "other_en_04",
+      "label": "other",
+      "text": "The article covers combined-cycle gas turbines, efficiency upgrades, maintenance windows, compressor blades and pipeline gas supply. The terminology is centered on thermal power engineering and gas infrastructure."
+    }
+  ]
+}

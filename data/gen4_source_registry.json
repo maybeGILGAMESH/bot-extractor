@@ -1,0 +1,69 @@
+{
+  "topic": "Generation IV reactors",
+  "generated_on": "2026-03-29",
+  "sources": [
+    {
+      "title": "Welcome to the Generation IV International Forum",
+      "organization": "Generation IV International Forum",
+      "type": "official_intergovernmental",
+      "url": "https://www.gen-4.org/",
+      "why_useful": "Официальная рамка по целям Generation IV и по шести выбранным реакторным системам."
+    },
+    {
+      "title": "Fast reactors",
+      "organization": "IAEA",
+      "type": "official_intergovernmental",
+      "url": "https://www.iaea.org/topics/fast-reactors",
+      "why_useful": "Официальное описание быстрых реакторов, быстрого спектра и международной кооперации."
+    },
+    {
+      "title": "Molten salt reactors",
+      "organization": "IAEA",
+      "type": "official_intergovernmental",
+      "url": "https://www.iaea.org/topics/molten-salt-reactors",
+      "why_useful": "База для терминов по MSR, process heat, low pressure, materials."
+    },
+    {
+      "title": "Advanced Reactors Information System (ARIS)",
+      "organization": "IAEA",
+      "type": "official_database",
+      "url": "https://www.iaea.org/resources/databases/advanced-reactors-information-system-aris",
+      "why_useful": "База проектных описаний реакторов и нормализованных технических сведений."
+    },
+    {
+      "title": "Advancing back-end pathways for next-generation nuclear systems",
+      "organization": "OECD NEA",
+      "type": "official_intergovernmental",
+      "url": "https://www.oecd-nea.org/jcms/pl_113183/advancing-back-end-pathways-for-next-generation-nuclear-systems",
+      "why_useful": "Актуальный материал по отходам и back-end стратегиям для advanced и Generation IV систем."
+    },
+    {
+      "title": "Generation IV Nuclear Reactors",
+      "organization": "World Nuclear Association",
+      "type": "industry_analytical",
+      "url": "https://world-nuclear.org/information-library/nuclear-fuel-cycle/nuclear-power-reactors/generation-iv-nuclear-reactors",
+      "why_useful": "Отраслевая сводка по реакторным направлениям и траекториям развития."
+    },
+    {
+      "title": "Work begins on first US Gen IV reactor",
+      "organization": "World Nuclear News",
+      "type": "industry_news",
+      "url": "https://www.world-nuclear-news.org/articles/work-begins-on-first-us-gen-iv-reactor",
+      "why_useful": "Пример отраслевой новости с современной терминологией по advanced reactors."
+    },
+    {
+      "title": "US regulator accelerates review of Natrium permit",
+      "organization": "World Nuclear News",
+      "type": "industry_news",
+      "url": "https://www.world-nuclear-news.org/articles/us-regulator-accelerates-review-of-natrium-permit",
+      "why_useful": "Пример новостного корпуса по SFR и демонстрационным проектам."
+    },
+    {
+      "title": "Construction permit granted for molten salt research reactor",
+      "organization": "World Nuclear News",
+      "type": "industry_news",
+      "url": "https://www.world-nuclear-news.org/articles/construction-permit-granted-for-molten-salt-research-reactor",
+      "why_useful": "Пример корпуса по MSR-проектам и лицензированию."
+    }
+  ]
+}

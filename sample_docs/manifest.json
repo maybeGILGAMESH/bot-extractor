@@ -1,0 +1,41 @@
+{
+  "topic": "demo_upload_set_for_gen4_diploma",
+  "documents": [
+    {
+      "file_name": "gen4_overview_ru.docx",
+      "label": "gen4",
+      "source_type": "synthetic_demo",
+      "source_text": "sample_docs/source_texts/gen4_overview_ru.txt"
+    },
+    {
+      "file_name": "gen4_msr_process_heat_en.pdf",
+      "label": "gen4",
+      "source_type": "synthetic_demo",
+      "source_text": "sample_docs/source_texts/gen4_msr_process_heat_en.txt"
+    },
+    {
+      "file_name": "gen4_fast_cycle_ru.doc",
+      "label": "gen4",
+      "source_type": "synthetic_demo",
+      "source_text": "sample_docs/source_texts/gen4_fast_cycle_ru.txt"
+    },
+    {
+      "file_name": "non_gen4_pwr_ru.pdf",
+      "label": "other",
+      "source_type": "synthetic_demo",
+      "source_text": "sample_docs/source_texts/non_gen4_pwr_ru.txt"
+    },
+    {
+      "file_name": "non_gen4_renewables_en.docx",
+      "label": "other",
+      "source_type": "synthetic_demo",
+      "source_text": "sample_docs/source_texts/non_gen4_renewables_en.txt"
+    },
+    {
+      "file_name": "non_gen4_fusion_ru.doc",
+      "label": "other",
+      "source_type": "synthetic_demo",
+      "source_text": "sample_docs/source_texts/non_gen4_fusion_ru.txt"
+    }
+  ]
+}

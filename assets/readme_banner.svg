@@ -1,0 +1,64 @@
+<svg width="1280" height="360" viewBox="0 0 1280 360" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1280" y2="360" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#08131F"/>
+      <stop offset="0.5" stop-color="#13283D"/>
+      <stop offset="1" stop-color="#1F3B56"/>
+    </linearGradient>
+    <linearGradient id="line" x1="180" y1="60" x2="1030" y2="300" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F2B84B"/>
+      <stop offset="1" stop-color="#93D6B5"/>
+    </linearGradient>
+    <filter id="blur" x="-120" y="-120" width="1520" height="600" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feGaussianBlur stdDeviation="40"/>
+    </filter>
+  </defs>
+
+  <rect width="1280" height="360" rx="28" fill="url(#bg)"/>
+
+  <g filter="url(#blur)" opacity="0.7">
+    <circle cx="220" cy="80" r="90" fill="#F2B84B">
+      <animate attributeName="cx" values="220;280;220" dur="8s" repeatCount="indefinite"/>
+      <animate attributeName="cy" values="80;110;80" dur="8s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="1110" cy="90" r="80" fill="#F07C4A">
+      <animate attributeName="cx" values="1110;1050;1110" dur="9s" repeatCount="indefinite"/>
+      <animate attributeName="cy" values="90;120;90" dur="9s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="980" cy="290" r="72" fill="#93D6B5">
+      <animate attributeName="cx" values="980;930;980" dur="7s" repeatCount="indefinite"/>
+      <animate attributeName="cy" values="290;260;290" dur="7s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <g opacity="0.75">
+    <path d="M120 260C240 210 360 210 480 242C600 274 720 296 860 250C950 220 1030 170 1130 150" stroke="url(#line)" stroke-width="3.5" stroke-linecap="round">
+      <animate attributeName="d" dur="10s" repeatCount="indefinite"
+        values="
+          M120 260C240 210 360 210 480 242C600 274 720 296 860 250C950 220 1030 170 1130 150;
+          M120 240C240 205 360 235 480 250C600 265 720 284 860 244C950 216 1030 165 1130 160;
+          M120 260C240 210 360 210 480 242C600 274 720 296 860 250C950 220 1030 170 1130 150
+        "/>
+    </path>
+    <circle cx="560" cy="258" r="8" fill="#F2B84B">
+      <animate attributeName="cx" values="560;820;560" dur="6s" repeatCount="indefinite"/>
+      <animate attributeName="cy" values="258;245;258" dur="6s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="800" cy="245" r="6" fill="#93D6B5">
+      <animate attributeName="cx" values="800;1010;800" dur="5s" repeatCount="indefinite"/>
+      <animate attributeName="cy" values="245;180;245" dur="5s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <g opacity="0.16">
+    <rect x="730" y="56" width="380" height="104" rx="18" stroke="#F7F1E6"/>
+    <rect x="760" y="84" width="130" height="16" rx="8" fill="#F7F1E6"/>
+    <rect x="760" y="114" width="210" height="12" rx="6" fill="#F7F1E6"/>
+    <rect x="760" y="136" width="160" height="12" rx="6" fill="#F7F1E6"/>
+  </g>
+
+  <text x="74" y="96" fill="#93D6B5" font-family="Verdana, Geneva, sans-serif" font-size="22" font-weight="700" letter-spacing="3">PYMUPDF • YAKE • GENERATION IV</text>
+  <text x="70" y="172" fill="#F7F1E6" font-family="Verdana, Geneva, sans-serif" font-size="58" font-weight="800">Бот извлекатель</text>
+  <text x="72" y="220" fill="#FFD896" font-family="Verdana, Geneva, sans-serif" font-size="28" font-weight="700">Дипломный интерактивный анализатор документов</text>
+  <text x="74" y="278" fill="#C9D3DB" font-family="Verdana, Geneva, sans-serif" font-size="22">Ключевые фразы • Словарь • YAKE • Модель похожести • JSON • Streamlit</text>
+</svg>
