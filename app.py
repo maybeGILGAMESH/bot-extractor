@@ -6,10 +6,8 @@ from pathlib import Path
 
 import pandas as pd
 import streamlit as st
-import streamlit.components.v1 as components
 
 from extractor import export_results_json, extract_document
-from help_content import HELP_QUESTIONS
 from theme_dictionary import (
     DEFAULT_YAKE_THRESHOLD,
     aggregate_dictionary_growth,
@@ -28,7 +26,6 @@ from theme_model import (
     reset_model_cache,
 )
 from training_manager import (
-    BASE_DIR,
     build_base_cache,
     build_runtime_resources,
     get_base_overview,
@@ -140,15 +137,6 @@ html, body, [class*="css"]  {
   font-size: clamp(1.4rem, 2vw, 2rem);
   font-weight: 700;
   color: #ffd896;
-}
-
-.author-line {
-  margin-top: 1rem;
-  font-family: 'Unbounded', sans-serif;
-  font-size: clamp(1.4rem, 2.7vw, 2.4rem);
-  line-height: 1.05;
-  color: #fff1cf;
-  text-transform: uppercase;
 }
 
 .hero p {
@@ -413,21 +401,21 @@ def render_hero() -> None:
         + """
 <section class="hero">
   <span class="eyebrow">PyMuPDF + YAKE</span>
-  <h1>Практическая реализация Дипломной Работы</h1>
+  <h1>Прототип тематического анализа документов</h1>
   <h2>Бот извлекатель</h2>
   <p>
-    Загружайте PDF и Word-документы прямо из браузера, извлекайте текст,
-    получайте ключевые фразы и скачивайте результат в JSON.
+    Сервис извлекает текст из PDF и Word-документов, выделяет ключевые фразы,
+    сравнивает документ со словарем домена и рассчитывает похожесть на корпус
+    материалов по реакторам IV поколения.
   </p>
-  <div class="author-line">Автор: Тихомиров Антон</div>
   <div class="feature-grid">
     <div class="feature-card">
-      <strong>Живые загрузки</strong>
-      <span>Пользователи смогут отправлять PDF, DOC и DOCX-файлы через веб-форму после публикации сервиса.</span>
+      <strong>Загрузка документов</strong>
+      <span>Поддерживаются PDF, DOC и DOCX. Файлы обрабатываются в текущей сессии и сразу попадают в аналитический контур.</span>
     </div>
     <div class="feature-card">
       <strong>Извлечение текста</strong>
-      <span>PDF разбираются через PyMuPDF, Word-файлы через LibreOffice, а YAKE выделяет ключевые слова и фразы.</span>
+      <span>PDF разбираются через PyMuPDF, Word-файлы через LibreOffice, после чего YAKE извлекает ключевые фразы.</span>
     </div>
     <div class="feature-empty" aria-hidden="true"></div>
   </div>
@@ -483,8 +471,7 @@ def render_sidebar() -> tuple[str, int, float, float]:
         st.metric("Проверка на test", f"{model_eval['accuracy_percent']}%")
         st.metric("Активный словарь", len(active_dictionary.get("entries", [])))
         st.markdown(
-            f'<p class="tiny-note">Методика: '
-            f'<code>{Path("/home/user/bot_extract/docs/gen4_methodology.md")}</code></p>',
+            '<p class="tiny-note">Методика: <code>docs/gen4_methodology.md</code></p>',
             unsafe_allow_html=True,
         )
         with st.expander("Источники для диплома"):
@@ -495,13 +482,10 @@ def render_sidebar() -> tuple[str, int, float, float]:
                 )
         with st.expander("Тестовые файлы"):
             st.write(
-                "Готовые документы для загрузки лежат в каталоге "
-                "`/home/user/bot_extract/sample_docs`."
+                "Готовые документы для загрузки лежат в каталоге `sample_docs`."
             )
         with st.expander("Реальный корпус base"):
-            st.write(
-                f"Документы для обучения сейчас читаются из `{BASE_DIR}`."
-            )
+            st.write("Документы для обучения сейчас читаются из каталога `base`.")
         with st.expander("Отобранные термины словаря"):
             dictionary_rows = pd.DataFrame(active_dictionary.get("entries", [])).copy()
             if dictionary_rows.empty:
@@ -519,11 +503,7 @@ def render_sidebar() -> tuple[str, int, float, float]:
                 with st.expander("Показать список терминов"):
                     for idx, term in enumerate(display["Термин"].tolist(), start=1):
                         st.markdown(f"{idx}. `{term}`")
-        st.markdown(
-            '<p class="tiny-note">Файлы обрабатываются в памяти текущей сессии. '
-            "Это удобно для демонстрации и безопаснее для публичной формы.</p>",
-            unsafe_allow_html=True,
-        )
+        st.markdown('<p class="tiny-note">Файлы обрабатываются в памяти текущей сессии.</p>', unsafe_allow_html=True)
     return language, max_keywords, model_threshold, yake_threshold
 
 
@@ -1127,237 +1107,6 @@ def render_visual_dashboard() -> None:
         st.dataframe(pd.DataFrame(summary_rows), use_container_width=True, hide_index=True)
 
 
-def render_help_panel() -> None:
-    model_eval = evaluate_theme_model()
-    corpus = load_training_corpus()
-    dictionary = load_seed_dictionary()
-    source_registry = json.loads(SOURCE_REGISTRY_PATH.read_text(encoding="utf-8"))["sources"]
-
-    st.markdown('<div id="help-anchor-bottom"></div>', unsafe_allow_html=True)
-    st.markdown('<div id="commission-help-marker"></div>', unsafe_allow_html=True)
-    with st.expander(" ", expanded=False):
-        st.markdown("## Помощь")
-        st.write(
-            "Ниже собран расширенный блок для ответов на вопросы комиссии: "
-            "логика проекта, формулы, метрики, ограничения, развитие и предметный контекст."
-        )
-
-        metrics = st.columns(4)
-        metrics[0].metric("Вопросов", len(HELP_QUESTIONS))
-        metrics[1].metric("Категорий", len({item["category"] for item in HELP_QUESTIONS}))
-        metrics[2].metric("Runtime-словарь", len(dictionary.get("entries", [])))
-        metrics[3].metric("Runtime-корпус", len(corpus))
-
-        st.markdown("### Быстрый обзор")
-        category_counts = (
-            pd.DataFrame(HELP_QUESTIONS)
-            .groupby("category")
-            .size()
-            .reset_index(name="questions")
-            .rename(columns={"category": "Категория", "questions": "Вопросов"})
-        )
-        st.bar_chart(category_counts.set_index("Категория"), color="#93d6b5")
-
-        overview_cols = st.columns(3)
-        overview_cols[0].markdown("#### Модель")
-        confusion_df = pd.DataFrame(
-            [{"Переход": key, "Количество": value} for key, value in model_eval["confusion"].items()]
-        )
-        overview_cols[0].dataframe(confusion_df, use_container_width=True, hide_index=True)
-
-        overview_cols[1].markdown("#### Источники")
-        source_df = (
-            pd.DataFrame(source_registry)
-            .groupby("type")
-            .size()
-            .reset_index(name="sources")
-            .rename(columns={"type": "Тип источника", "sources": "Количество"})
-        )
-        overview_cols[1].dataframe(source_df, use_container_width=True, hide_index=True)
-
-        overview_cols[2].markdown("#### Словарь")
-        dictionary_rows = pd.DataFrame(dictionary.get("entries", [])[:12])
-        if not dictionary_rows.empty:
-            if "doc_count" in dictionary_rows.columns:
-                dictionary_rows = dictionary_rows.rename(
-                    columns={
-                        "canonical": "Термин",
-                        "doc_count": "Документов",
-                        "avg_score": "Средний YAKE score",
-                    }
-                )
-                overview_cols[2].dataframe(
-                    dictionary_rows[["Термин", "Документов", "Средний YAKE score"]],
-                    use_container_width=True,
-                    hide_index=True,
-                )
-            else:
-                dictionary_rows = dictionary_rows.rename(columns={"canonical": "Термин", "category": "Категория"})
-                overview_cols[2].dataframe(
-                    dictionary_rows[["Термин", "Категория"]],
-                    use_container_width=True,
-                    hide_index=True,
-                )
-
-        st.markdown("### Вопросы по категориям")
-        categories = list(dict.fromkeys(item["category"] for item in HELP_QUESTIONS))
-        tabs = st.tabs(categories)
-        for tab, category in zip(tabs, categories):
-            with tab:
-                for idx, item in enumerate([q for q in HELP_QUESTIONS if q["category"] == category], start=1):
-                    with st.expander(f"{idx}. {item['question']}"):
-                        st.write(item["answer"])
-                        for formula in item["formulas"]:
-                            st.latex(formula)
-
-
-def render_help_controls() -> None:
-    components.html(
-        """
-        <script>
-        const parentDoc = window.parent.document;
-
-        function findHelpButton() {
-          const marker = parentDoc.getElementById('commission-help-marker');
-          if (!marker) {
-            return null;
-          }
-          const details = marker.closest('[data-testid="stExpander"]');
-          if (!details) {
-            return null;
-          }
-          return details.querySelector('button');
-        }
-
-        function openHelp() {
-          const helpButton = findHelpButton();
-          if (helpButton && helpButton.getAttribute('aria-expanded') === 'false') {
-            helpButton.click();
-          }
-          const anchor = parentDoc.getElementById('help-anchor-bottom');
-          if (anchor) {
-            anchor.scrollIntoView({behavior: 'smooth', block: 'start'});
-          }
-        }
-
-        function closeHelp() {
-          const helpButton = findHelpButton();
-          if (helpButton && helpButton.getAttribute('aria-expanded') === 'true') {
-            helpButton.click();
-          }
-        }
-
-        function installControls() {
-          if (parentDoc.getElementById('commission-help-fab')) {
-            return;
-          }
-
-          const fab = parentDoc.createElement('button');
-          fab.id = 'commission-help-fab';
-          fab.innerText = 'п';
-          fab.title = 'Помощь';
-          fab.style.cssText = `
-            position: fixed;
-            right: 14px;
-            bottom: 16px;
-            width: 24px;
-            height: 24px;
-            border-radius: 999px;
-            border: 1px solid rgba(255,255,255,0.08);
-            background: rgba(255,255,255,0.06);
-            color: rgba(255,255,255,0.42);
-            font-size: 10px;
-            cursor: pointer;
-            opacity: 0;
-            pointer-events: none;
-            transition: opacity 0.25s ease;
-            z-index: 9999;
-          `;
-          fab.addEventListener('click', openHelp);
-          parentDoc.body.appendChild(fab);
-
-          const switchWrap = parentDoc.createElement('div');
-          switchWrap.id = 'commission-help-switch';
-          switchWrap.style.cssText = `
-            position: fixed;
-            left: 50%;
-            bottom: 10px;
-            transform: translateX(-50%);
-            z-index: 9999;
-            opacity: 0.2;
-            transition: opacity 0.25s ease;
-          `;
-
-          const label = parentDoc.createElement('label');
-          label.style.cssText = `
-            position: relative;
-            display: inline-block;
-            width: 28px;
-            height: 14px;
-          `;
-
-          const input = parentDoc.createElement('input');
-          input.type = 'checkbox';
-          input.style.cssText = 'opacity:0;width:0;height:0;';
-
-          const slider = parentDoc.createElement('span');
-          slider.style.cssText = `
-            position:absolute;
-            cursor:pointer;
-            inset:0;
-            background: rgba(255,255,255,0.08);
-            border: 1px solid rgba(255,255,255,0.08);
-            border-radius: 999px;
-          `;
-
-          const knob = parentDoc.createElement('span');
-          knob.style.cssText = `
-            position:absolute;
-            height:10px;
-            width:10px;
-            left:2px;
-            top:1px;
-            background: rgba(255,255,255,0.35);
-            border-radius:50%;
-            transition: transform 0.2s ease;
-          `;
-          slider.appendChild(knob);
-
-          input.addEventListener('change', () => {
-            if (input.checked) {
-              knob.style.transform = 'translateX(12px)';
-              openHelp();
-            } else {
-              knob.style.transform = 'translateX(0px)';
-              closeHelp();
-            }
-          });
-
-          label.appendChild(input);
-          label.appendChild(slider);
-          switchWrap.appendChild(label);
-          parentDoc.body.appendChild(switchWrap);
-
-          function onScroll() {
-            const doc = parentDoc.documentElement;
-            const nearBottom = doc.scrollTop + window.parent.innerHeight > doc.scrollHeight - 220;
-            fab.style.opacity = nearBottom ? '0.42' : '0';
-            fab.style.pointerEvents = nearBottom ? 'auto' : 'none';
-            switchWrap.style.opacity = nearBottom ? '0.32' : '0.14';
-          }
-
-          window.parent.addEventListener('scroll', onScroll, {passive: true});
-          onScroll();
-        }
-
-        installControls();
-        </script>
-        """,
-        height=0,
-        width=0,
-    )
-
-
 def ensure_runtime_bootstrap() -> None:
     if st.session_state.get("runtime_bootstrap_done"):
         return
@@ -1545,10 +1294,8 @@ def main() -> None:
     )
     st.session_state["results"] = current_results
     render_results(current_results)
-    render_help_panel()
     render_dictionary_editors()
     render_visual_dashboard()
-    render_help_controls()
 
 
 if __name__ == "__main__":

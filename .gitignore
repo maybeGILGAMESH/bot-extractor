@@ -46,3 +46,8 @@ Thumbs.db
 *.log
 *.tmp
 *.temp
+
+# Local project notes and private docs
+docs/CODE_README.md
+docs/gen4_methodology.md
+!README.md

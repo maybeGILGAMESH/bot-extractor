@@ -15,6 +15,10 @@
   <b>Интерактивный дипломный прототип для извлечения текста, поиска ключевых фраз и тематического анализа материалов по реакторам IV поколения. В рамках дипломного проекта Тихомирова Антона</b>
 </p>
 
+<p align="center">
+  <b>Подробное объяснение архитектуры и модулей:</b> <code>docs/CODE_README.md</code>
+</p>
+
 ---
 
 ## Почему этот проект интересный
@@ -369,7 +373,7 @@ test/
 ## Быстрый старт
 
 ```bash
-cd /home/user/bot_extract
+cd bot_extract
 chmod +x run.sh
 ./run.sh
 ```
@@ -377,7 +381,7 @@ chmod +x run.sh
 Если нужно указать свой порт:
 
 ```bash
-cd /home/user/bot_extract
+cd bot_extract
 PORT=8502 ./run.sh
 ```
 
@@ -386,7 +390,7 @@ PORT=8502 ./run.sh
 ## Ручной запуск
 
 ```bash
-cd /home/user/bot_extract
+cd bot_extract
 conda run -n bot_env streamlit run app.py --server.address 0.0.0.0 --server.port 8502
 ```
 
@@ -397,7 +401,6 @@ conda run -n bot_env streamlit run app.py --server.address 0.0.0.0 --server.port
 Если нужно переустановить зависимости:
 
 ```bash
-source /home/user/conda/etc/profile.d/conda.sh
 conda activate bot_env
 pip install -r requirements.txt
 ```
